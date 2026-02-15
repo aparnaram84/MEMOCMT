@@ -1,0 +1,3 @@
+data/MELD\dev\videos\dia105_utt1.mp4 | VAD produced empty audio
+data/MELD\dev\videos\dia36_utt8.mp4 | VAD produced empty audio
+data/MELD\dev\videos\dia89_utt7.mp4 | VAD produced empty audio

@@ -1,0 +1,14 @@
+data/MELD\test\videos\dia110_utt3.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia160_utt11.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia166_utt8.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia182_utt6.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia215_utt8.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia245_utt1.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia268_utt5.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia32_utt3.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia54_utt6.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia56_utt11.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia70_utt13.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia95_utt12.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia95_utt6.mp4 | VAD produced empty audio
+data/MELD\test\videos\dia9_utt4.mp4 | VAD produced empty audio

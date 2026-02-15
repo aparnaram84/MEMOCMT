@@ -1,0 +1,6650 @@
+[
+  {
+    "utterance_id": "dia0_utt0",
+    "emotion": "anger",
+    "confidence": 0.999446451663971,
+    "attn_audio_visual": 26.142763137817383
+  },
+  {
+    "utterance_id": "dia0_utt1",
+    "emotion": "neutral",
+    "confidence": 0.8486229181289673,
+    "attn_audio_visual": 26.513486862182617
+  },
+  {
+    "utterance_id": "dia100_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9996091723442078,
+    "attn_audio_visual": 22.61157989501953
+  },
+  {
+    "utterance_id": "dia101_utt0",
+    "emotion": "fear",
+    "confidence": 0.9976089000701904,
+    "attn_audio_visual": 23.996946334838867
+  },
+  {
+    "utterance_id": "dia102_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9924079179763794,
+    "attn_audio_visual": 24.4052677154541
+  },
+  {
+    "utterance_id": "dia102_utt1",
+    "emotion": "surprise",
+    "confidence": 0.8965007662773132,
+    "attn_audio_visual": 24.292011260986328
+  },
+  {
+    "utterance_id": "dia103_utt0",
+    "emotion": "neutral",
+    "confidence": 0.7047604918479919,
+    "attn_audio_visual": 22.638580322265625
+  },
+  {
+    "utterance_id": "dia103_utt1",
+    "emotion": "anger",
+    "confidence": 0.522935688495636,
+    "attn_audio_visual": 22.142913818359375
+  },
+  {
+    "utterance_id": "dia103_utt2",
+    "emotion": "neutral",
+    "confidence": 0.7565299272537231,
+    "attn_audio_visual": 20.36820411682129
+  },
+  {
+    "utterance_id": "dia103_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9734048247337341,
+    "attn_audio_visual": 22.1227970123291
+  },
+  {
+    "utterance_id": "dia103_utt4",
+    "emotion": "anger",
+    "confidence": 0.9975172281265259,
+    "attn_audio_visual": 23.357797622680664
+  },
+  {
+    "utterance_id": "dia104_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9806753993034363,
+    "attn_audio_visual": 25.74500846862793
+  },
+  {
+    "utterance_id": "dia104_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997308850288391,
+    "attn_audio_visual": 26.989347457885742
+  },
+  {
+    "utterance_id": "dia104_utt10",
+    "emotion": "joy",
+    "confidence": 0.9937993884086609,
+    "attn_audio_visual": 27.76000213623047
+  },
+  {
+    "utterance_id": "dia104_utt11",
+    "emotion": "surprise",
+    "confidence": 0.41201090812683105,
+    "attn_audio_visual": 28.711198806762695
+  },
+  {
+    "utterance_id": "dia104_utt12",
+    "emotion": "sadness",
+    "confidence": 0.9978494644165039,
+    "attn_audio_visual": 31.890552520751953
+  },
+  {
+    "utterance_id": "dia104_utt13",
+    "emotion": "fear",
+    "confidence": 0.7540297508239746,
+    "attn_audio_visual": 30.135374069213867
+  },
+  {
+    "utterance_id": "dia104_utt14",
+    "emotion": "joy",
+    "confidence": 0.9996973276138306,
+    "attn_audio_visual": 27.631813049316406
+  },
+  {
+    "utterance_id": "dia104_utt15",
+    "emotion": "sadness",
+    "confidence": 0.9894466400146484,
+    "attn_audio_visual": 25.75210952758789
+  },
+  {
+    "utterance_id": "dia104_utt2",
+    "emotion": "surprise",
+    "confidence": 0.8741941452026367,
+    "attn_audio_visual": 27.902833938598633
+  },
+  {
+    "utterance_id": "dia104_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9983087778091431,
+    "attn_audio_visual": 27.700040817260742
+  },
+  {
+    "utterance_id": "dia104_utt4",
+    "emotion": "surprise",
+    "confidence": 0.809122622013092,
+    "attn_audio_visual": 28.576257705688477
+  },
+  {
+    "utterance_id": "dia104_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9897181987762451,
+    "attn_audio_visual": 24.901809692382812
+  },
+  {
+    "utterance_id": "dia104_utt6",
+    "emotion": "joy",
+    "confidence": 0.8694502115249634,
+    "attn_audio_visual": 28.021455764770508
+  },
+  {
+    "utterance_id": "dia104_utt7",
+    "emotion": "joy",
+    "confidence": 0.9993008375167847,
+    "attn_audio_visual": 30.883392333984375
+  },
+  {
+    "utterance_id": "dia104_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9996103644371033,
+    "attn_audio_visual": 26.27012825012207
+  },
+  {
+    "utterance_id": "dia104_utt9",
+    "emotion": "sadness",
+    "confidence": 0.4893909990787506,
+    "attn_audio_visual": 25.812255859375
+  },
+  {
+    "utterance_id": "dia105_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9995883107185364,
+    "attn_audio_visual": 28.92061996459961
+  },
+  {
+    "utterance_id": "dia105_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9889328479766846,
+    "attn_audio_visual": 29.007923126220703
+  },
+  {
+    "utterance_id": "dia105_utt10",
+    "emotion": "neutral",
+    "confidence": 0.96437007188797,
+    "attn_audio_visual": 22.435583114624023
+  },
+  {
+    "utterance_id": "dia105_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9977304339408875,
+    "attn_audio_visual": 22.17518424987793
+  },
+  {
+    "utterance_id": "dia105_utt2",
+    "emotion": "sadness",
+    "confidence": 0.994366466999054,
+    "attn_audio_visual": 22.17691421508789
+  },
+  {
+    "utterance_id": "dia105_utt3",
+    "emotion": "surprise",
+    "confidence": 0.8347689509391785,
+    "attn_audio_visual": 21.557260513305664
+  },
+  {
+    "utterance_id": "dia105_utt4",
+    "emotion": "joy",
+    "confidence": 0.8966992497444153,
+    "attn_audio_visual": 22.60605239868164
+  },
+  {
+    "utterance_id": "dia105_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9998382329940796,
+    "attn_audio_visual": 24.715242385864258
+  },
+  {
+    "utterance_id": "dia105_utt6",
+    "emotion": "neutral",
+    "confidence": 0.709392249584198,
+    "attn_audio_visual": 25.363359451293945
+  },
+  {
+    "utterance_id": "dia105_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9998338222503662,
+    "attn_audio_visual": 24.965208053588867
+  },
+  {
+    "utterance_id": "dia105_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9975758194923401,
+    "attn_audio_visual": 27.509185791015625
+  },
+  {
+    "utterance_id": "dia105_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9997567534446716,
+    "attn_audio_visual": 28.29351234436035
+  },
+  {
+    "utterance_id": "dia106_utt0",
+    "emotion": "joy",
+    "confidence": 0.9629763960838318,
+    "attn_audio_visual": 21.227575302124023
+  },
+  {
+    "utterance_id": "dia106_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9999105930328369,
+    "attn_audio_visual": 24.383394241333008
+  },
+  {
+    "utterance_id": "dia106_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9911524653434753,
+    "attn_audio_visual": 25.140790939331055
+  },
+  {
+    "utterance_id": "dia106_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998034834861755,
+    "attn_audio_visual": 22.444419860839844
+  },
+  {
+    "utterance_id": "dia106_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9262796640396118,
+    "attn_audio_visual": 24.9791202545166
+  },
+  {
+    "utterance_id": "dia106_utt5",
+    "emotion": "anger",
+    "confidence": 0.6039867997169495,
+    "attn_audio_visual": 24.912721633911133
+  },
+  {
+    "utterance_id": "dia107_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998319149017334,
+    "attn_audio_visual": 27.07399559020996
+  },
+  {
+    "utterance_id": "dia107_utt1",
+    "emotion": "anger",
+    "confidence": 0.4603245258331299,
+    "attn_audio_visual": 24.7189998626709
+  },
+  {
+    "utterance_id": "dia107_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9993231296539307,
+    "attn_audio_visual": 26.71706771850586
+  },
+  {
+    "utterance_id": "dia107_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9997130036354065,
+    "attn_audio_visual": 22.624996185302734
+  },
+  {
+    "utterance_id": "dia108_utt0",
+    "emotion": "disgust",
+    "confidence": 0.6859800815582275,
+    "attn_audio_visual": 23.238555908203125
+  },
+  {
+    "utterance_id": "dia108_utt1",
+    "emotion": "joy",
+    "confidence": 0.9985829591751099,
+    "attn_audio_visual": 29.39940643310547
+  },
+  {
+    "utterance_id": "dia108_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9850863218307495,
+    "attn_audio_visual": 28.610462188720703
+  },
+  {
+    "utterance_id": "dia108_utt11",
+    "emotion": "joy",
+    "confidence": 0.9996463060379028,
+    "attn_audio_visual": 26.76772117614746
+  },
+  {
+    "utterance_id": "dia108_utt12",
+    "emotion": "anger",
+    "confidence": 0.8864336609840393,
+    "attn_audio_visual": 27.168455123901367
+  },
+  {
+    "utterance_id": "dia108_utt13",
+    "emotion": "neutral",
+    "confidence": 0.8108884692192078,
+    "attn_audio_visual": 27.564228057861328
+  },
+  {
+    "utterance_id": "dia108_utt14",
+    "emotion": "neutral",
+    "confidence": 0.8830317258834839,
+    "attn_audio_visual": 21.859529495239258
+  },
+  {
+    "utterance_id": "dia108_utt2",
+    "emotion": "joy",
+    "confidence": 0.7566272020339966,
+    "attn_audio_visual": 24.21046257019043
+  },
+  {
+    "utterance_id": "dia108_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9990662932395935,
+    "attn_audio_visual": 25.28525733947754
+  },
+  {
+    "utterance_id": "dia108_utt4",
+    "emotion": "sadness",
+    "confidence": 0.5021876096725464,
+    "attn_audio_visual": 28.841785430908203
+  },
+  {
+    "utterance_id": "dia108_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9899308681488037,
+    "attn_audio_visual": 27.685792922973633
+  },
+  {
+    "utterance_id": "dia108_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9982902407646179,
+    "attn_audio_visual": 30.040224075317383
+  },
+  {
+    "utterance_id": "dia108_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9408236742019653,
+    "attn_audio_visual": 29.413734436035156
+  },
+  {
+    "utterance_id": "dia108_utt8",
+    "emotion": "joy",
+    "confidence": 0.8314215540885925,
+    "attn_audio_visual": 28.752483367919922
+  },
+  {
+    "utterance_id": "dia108_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9955020546913147,
+    "attn_audio_visual": 27.650409698486328
+  },
+  {
+    "utterance_id": "dia109_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9673715829849243,
+    "attn_audio_visual": 23.987436294555664
+  },
+  {
+    "utterance_id": "dia109_utt1",
+    "emotion": "joy",
+    "confidence": 0.6970791816711426,
+    "attn_audio_visual": 24.00284767150879
+  },
+  {
+    "utterance_id": "dia109_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9997084736824036,
+    "attn_audio_visual": 22.744483947753906
+  },
+  {
+    "utterance_id": "dia109_utt3",
+    "emotion": "disgust",
+    "confidence": 0.9910566806793213,
+    "attn_audio_visual": 22.448486328125
+  },
+  {
+    "utterance_id": "dia109_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9981580376625061,
+    "attn_audio_visual": 26.469970703125
+  },
+  {
+    "utterance_id": "dia109_utt5",
+    "emotion": "surprise",
+    "confidence": 0.850439190864563,
+    "attn_audio_visual": 27.60179328918457
+  },
+  {
+    "utterance_id": "dia109_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9997623562812805,
+    "attn_audio_visual": 25.034461975097656
+  },
+  {
+    "utterance_id": "dia109_utt7",
+    "emotion": "neutral",
+    "confidence": 0.7191011309623718,
+    "attn_audio_visual": 28.403963088989258
+  },
+  {
+    "utterance_id": "dia10_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9987080097198486,
+    "attn_audio_visual": 18.010591506958008
+  },
+  {
+    "utterance_id": "dia10_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9995360374450684,
+    "attn_audio_visual": 19.511581420898438
+  },
+  {
+    "utterance_id": "dia10_utt2",
+    "emotion": "neutral",
+    "confidence": 0.7120331525802612,
+    "attn_audio_visual": 25.735225677490234
+  },
+  {
+    "utterance_id": "dia10_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9995872378349304,
+    "attn_audio_visual": 26.28641128540039
+  },
+  {
+    "utterance_id": "dia10_utt4",
+    "emotion": "anger",
+    "confidence": 0.7573987245559692,
+    "attn_audio_visual": 20.435550689697266
+  },
+  {
+    "utterance_id": "dia10_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9993661046028137,
+    "attn_audio_visual": 19.532958984375
+  },
+  {
+    "utterance_id": "dia10_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9418417811393738,
+    "attn_audio_visual": 25.000896453857422
+  },
+  {
+    "utterance_id": "dia10_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9987342953681946,
+    "attn_audio_visual": 25.11882972717285
+  },
+  {
+    "utterance_id": "dia10_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9656941890716553,
+    "attn_audio_visual": 26.5539493560791
+  },
+  {
+    "utterance_id": "dia10_utt9",
+    "emotion": "anger",
+    "confidence": 0.5220567584037781,
+    "attn_audio_visual": 20.810651779174805
+  },
+  {
+    "utterance_id": "dia110_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998980760574341,
+    "attn_audio_visual": 21.923131942749023
+  },
+  {
+    "utterance_id": "dia110_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9703611135482788,
+    "attn_audio_visual": 25.381237030029297
+  },
+  {
+    "utterance_id": "dia110_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9997902512550354,
+    "attn_audio_visual": 25.75323486328125
+  },
+  {
+    "utterance_id": "dia110_utt3",
+    "emotion": "neutral",
+    "confidence": 0.999872088432312,
+    "attn_audio_visual": 24.980066299438477
+  },
+  {
+    "utterance_id": "dia110_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9981755018234253,
+    "attn_audio_visual": 24.770259857177734
+  },
+  {
+    "utterance_id": "dia110_utt5",
+    "emotion": "joy",
+    "confidence": 0.9889127016067505,
+    "attn_audio_visual": 23.016197204589844
+  },
+  {
+    "utterance_id": "dia110_utt6",
+    "emotion": "joy",
+    "confidence": 0.9152095913887024,
+    "attn_audio_visual": 25.598590850830078
+  },
+  {
+    "utterance_id": "dia110_utt8",
+    "emotion": "joy",
+    "confidence": 0.9829239249229431,
+    "attn_audio_visual": 25.396507263183594
+  },
+  {
+    "utterance_id": "dia110_utt9",
+    "emotion": "neutral",
+    "confidence": 0.7724408507347107,
+    "attn_audio_visual": 27.683353424072266
+  },
+  {
+    "utterance_id": "dia111_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9318127632141113,
+    "attn_audio_visual": 25.26226043701172
+  },
+  {
+    "utterance_id": "dia111_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997732043266296,
+    "attn_audio_visual": 23.104223251342773
+  },
+  {
+    "utterance_id": "dia111_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9989277720451355,
+    "attn_audio_visual": 23.8267822265625
+  },
+  {
+    "utterance_id": "dia112_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9082251191139221,
+    "attn_audio_visual": 23.657623291015625
+  },
+  {
+    "utterance_id": "dia112_utt1",
+    "emotion": "surprise",
+    "confidence": 0.6464123129844666,
+    "attn_audio_visual": 26.918426513671875
+  },
+  {
+    "utterance_id": "dia112_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9893691539764404,
+    "attn_audio_visual": 24.389429092407227
+  },
+  {
+    "utterance_id": "dia112_utt3",
+    "emotion": "anger",
+    "confidence": 0.6909618377685547,
+    "attn_audio_visual": 25.357389450073242
+  },
+  {
+    "utterance_id": "dia112_utt4",
+    "emotion": "neutral",
+    "confidence": 0.7000201940536499,
+    "attn_audio_visual": 31.890989303588867
+  },
+  {
+    "utterance_id": "dia113_utt0",
+    "emotion": "fear",
+    "confidence": 0.6931610107421875,
+    "attn_audio_visual": 19.753719329833984
+  },
+  {
+    "utterance_id": "dia113_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9978018403053284,
+    "attn_audio_visual": 28.275920867919922
+  },
+  {
+    "utterance_id": "dia113_utt10",
+    "emotion": "joy",
+    "confidence": 0.5140683054924011,
+    "attn_audio_visual": 20.72228240966797
+  },
+  {
+    "utterance_id": "dia113_utt11",
+    "emotion": "joy",
+    "confidence": 0.999580442905426,
+    "attn_audio_visual": 28.815736770629883
+  },
+  {
+    "utterance_id": "dia113_utt12",
+    "emotion": "joy",
+    "confidence": 0.8183465003967285,
+    "attn_audio_visual": 23.477619171142578
+  },
+  {
+    "utterance_id": "dia113_utt13",
+    "emotion": "joy",
+    "confidence": 0.9981263279914856,
+    "attn_audio_visual": 20.323169708251953
+  },
+  {
+    "utterance_id": "dia113_utt2",
+    "emotion": "joy",
+    "confidence": 0.8416356444358826,
+    "attn_audio_visual": 29.030649185180664
+  },
+  {
+    "utterance_id": "dia113_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9996974468231201,
+    "attn_audio_visual": 30.511844635009766
+  },
+  {
+    "utterance_id": "dia113_utt4",
+    "emotion": "joy",
+    "confidence": 0.8652731776237488,
+    "attn_audio_visual": 23.469741821289062
+  },
+  {
+    "utterance_id": "dia113_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9991040825843811,
+    "attn_audio_visual": 24.464841842651367
+  },
+  {
+    "utterance_id": "dia113_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9355258941650391,
+    "attn_audio_visual": 22.43471908569336
+  },
+  {
+    "utterance_id": "dia113_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9998728036880493,
+    "attn_audio_visual": 22.808443069458008
+  },
+  {
+    "utterance_id": "dia113_utt8",
+    "emotion": "anger",
+    "confidence": 0.9992926120758057,
+    "attn_audio_visual": 20.222637176513672
+  },
+  {
+    "utterance_id": "dia113_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9988514184951782,
+    "attn_audio_visual": 22.65283203125
+  },
+  {
+    "utterance_id": "dia11_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9955280423164368,
+    "attn_audio_visual": 23.568754196166992
+  },
+  {
+    "utterance_id": "dia11_utt1",
+    "emotion": "joy",
+    "confidence": 0.9974615573883057,
+    "attn_audio_visual": 22.884363174438477
+  },
+  {
+    "utterance_id": "dia11_utt10",
+    "emotion": "sadness",
+    "confidence": 0.997128427028656,
+    "attn_audio_visual": 26.42391014099121
+  },
+  {
+    "utterance_id": "dia11_utt11",
+    "emotion": "neutral",
+    "confidence": 0.8656965494155884,
+    "attn_audio_visual": 27.77155876159668
+  },
+  {
+    "utterance_id": "dia11_utt12",
+    "emotion": "sadness",
+    "confidence": 0.9486735463142395,
+    "attn_audio_visual": 27.152963638305664
+  },
+  {
+    "utterance_id": "dia11_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9986376166343689,
+    "attn_audio_visual": 26.68115234375
+  },
+  {
+    "utterance_id": "dia11_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9932131767272949,
+    "attn_audio_visual": 28.007795333862305
+  },
+  {
+    "utterance_id": "dia11_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9969983100891113,
+    "attn_audio_visual": 21.957555770874023
+  },
+  {
+    "utterance_id": "dia11_utt5",
+    "emotion": "joy",
+    "confidence": 0.4286710023880005,
+    "attn_audio_visual": 27.082460403442383
+  },
+  {
+    "utterance_id": "dia11_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9616662263870239,
+    "attn_audio_visual": 24.0019588470459
+  },
+  {
+    "utterance_id": "dia11_utt7",
+    "emotion": "sadness",
+    "confidence": 0.7841914296150208,
+    "attn_audio_visual": 21.72821807861328
+  },
+  {
+    "utterance_id": "dia11_utt8",
+    "emotion": "joy",
+    "confidence": 0.9528130292892456,
+    "attn_audio_visual": 25.025188446044922
+  },
+  {
+    "utterance_id": "dia11_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9999196529388428,
+    "attn_audio_visual": 27.078622817993164
+  },
+  {
+    "utterance_id": "dia12_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9997852444648743,
+    "attn_audio_visual": 28.427270889282227
+  },
+  {
+    "utterance_id": "dia12_utt1",
+    "emotion": "sadness",
+    "confidence": 0.5694316625595093,
+    "attn_audio_visual": 26.78455352783203
+  },
+  {
+    "utterance_id": "dia12_utt2",
+    "emotion": "fear",
+    "confidence": 0.9929252862930298,
+    "attn_audio_visual": 27.4283504486084
+  },
+  {
+    "utterance_id": "dia12_utt3",
+    "emotion": "joy",
+    "confidence": 0.9954715967178345,
+    "attn_audio_visual": 28.00229263305664
+  },
+  {
+    "utterance_id": "dia12_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9982950091362,
+    "attn_audio_visual": 24.842388153076172
+  },
+  {
+    "utterance_id": "dia13_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9995817542076111,
+    "attn_audio_visual": 24.946414947509766
+  },
+  {
+    "utterance_id": "dia13_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9994471669197083,
+    "attn_audio_visual": 25.260011672973633
+  },
+  {
+    "utterance_id": "dia13_utt10",
+    "emotion": "sadness",
+    "confidence": 0.5030161142349243,
+    "attn_audio_visual": 29.25413703918457
+  },
+  {
+    "utterance_id": "dia13_utt11",
+    "emotion": "joy",
+    "confidence": 0.724862813949585,
+    "attn_audio_visual": 25.94948387145996
+  },
+  {
+    "utterance_id": "dia13_utt12",
+    "emotion": "joy",
+    "confidence": 0.9985587000846863,
+    "attn_audio_visual": 25.938064575195312
+  },
+  {
+    "utterance_id": "dia13_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9994363188743591,
+    "attn_audio_visual": 25.76645851135254
+  },
+  {
+    "utterance_id": "dia13_utt14",
+    "emotion": "neutral",
+    "confidence": 0.9670723676681519,
+    "attn_audio_visual": 25.320768356323242
+  },
+  {
+    "utterance_id": "dia13_utt15",
+    "emotion": "surprise",
+    "confidence": 0.6196568012237549,
+    "attn_audio_visual": 26.023441314697266
+  },
+  {
+    "utterance_id": "dia13_utt16",
+    "emotion": "joy",
+    "confidence": 0.9630217552185059,
+    "attn_audio_visual": 27.155729293823242
+  },
+  {
+    "utterance_id": "dia13_utt17",
+    "emotion": "sadness",
+    "confidence": 0.9357497096061707,
+    "attn_audio_visual": 23.438589096069336
+  },
+  {
+    "utterance_id": "dia13_utt18",
+    "emotion": "neutral",
+    "confidence": 0.9909861087799072,
+    "attn_audio_visual": 25.205398559570312
+  },
+  {
+    "utterance_id": "dia13_utt19",
+    "emotion": "surprise",
+    "confidence": 0.9998176693916321,
+    "attn_audio_visual": 27.0096492767334
+  },
+  {
+    "utterance_id": "dia13_utt2",
+    "emotion": "sadness",
+    "confidence": 0.6629391312599182,
+    "attn_audio_visual": 24.239755630493164
+  },
+  {
+    "utterance_id": "dia13_utt20",
+    "emotion": "neutral",
+    "confidence": 0.9685031771659851,
+    "attn_audio_visual": 24.471384048461914
+  },
+  {
+    "utterance_id": "dia13_utt21",
+    "emotion": "joy",
+    "confidence": 0.9907522201538086,
+    "attn_audio_visual": 28.241819381713867
+  },
+  {
+    "utterance_id": "dia13_utt3",
+    "emotion": "joy",
+    "confidence": 0.9744923114776611,
+    "attn_audio_visual": 28.4765682220459
+  },
+  {
+    "utterance_id": "dia13_utt4",
+    "emotion": "joy",
+    "confidence": 0.9997947812080383,
+    "attn_audio_visual": 23.51314926147461
+  },
+  {
+    "utterance_id": "dia13_utt5",
+    "emotion": "joy",
+    "confidence": 0.9750910401344299,
+    "attn_audio_visual": 26.162940979003906
+  },
+  {
+    "utterance_id": "dia13_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9963776469230652,
+    "attn_audio_visual": 26.483301162719727
+  },
+  {
+    "utterance_id": "dia13_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9938907623291016,
+    "attn_audio_visual": 25.81540870666504
+  },
+  {
+    "utterance_id": "dia13_utt8",
+    "emotion": "joy",
+    "confidence": 0.9992958307266235,
+    "attn_audio_visual": 25.525272369384766
+  },
+  {
+    "utterance_id": "dia13_utt9",
+    "emotion": "joy",
+    "confidence": 0.9919667840003967,
+    "attn_audio_visual": 24.153688430786133
+  },
+  {
+    "utterance_id": "dia14_utt0",
+    "emotion": "joy",
+    "confidence": 0.9995172023773193,
+    "attn_audio_visual": 30.127901077270508
+  },
+  {
+    "utterance_id": "dia14_utt1",
+    "emotion": "neutral",
+    "confidence": 0.8650203943252563,
+    "attn_audio_visual": 28.253389358520508
+  },
+  {
+    "utterance_id": "dia14_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998745918273926,
+    "attn_audio_visual": 22.005985260009766
+  },
+  {
+    "utterance_id": "dia14_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9997233748435974,
+    "attn_audio_visual": 22.156265258789062
+  },
+  {
+    "utterance_id": "dia14_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9503077864646912,
+    "attn_audio_visual": 19.51340103149414
+  },
+  {
+    "utterance_id": "dia14_utt5",
+    "emotion": "anger",
+    "confidence": 0.9963078498840332,
+    "attn_audio_visual": 20.948251724243164
+  },
+  {
+    "utterance_id": "dia14_utt6",
+    "emotion": "anger",
+    "confidence": 0.985261857509613,
+    "attn_audio_visual": 21.094724655151367
+  },
+  {
+    "utterance_id": "dia14_utt7",
+    "emotion": "surprise",
+    "confidence": 0.8739400506019592,
+    "attn_audio_visual": 26.60455322265625
+  },
+  {
+    "utterance_id": "dia14_utt8",
+    "emotion": "sadness",
+    "confidence": 0.8175126910209656,
+    "attn_audio_visual": 24.13617515563965
+  },
+  {
+    "utterance_id": "dia15_utt0",
+    "emotion": "joy",
+    "confidence": 0.9864756464958191,
+    "attn_audio_visual": 24.16680335998535
+  },
+  {
+    "utterance_id": "dia15_utt1",
+    "emotion": "sadness",
+    "confidence": 0.5323732495307922,
+    "attn_audio_visual": 28.224559783935547
+  },
+  {
+    "utterance_id": "dia15_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9981105327606201,
+    "attn_audio_visual": 26.434364318847656
+  },
+  {
+    "utterance_id": "dia15_utt3",
+    "emotion": "neutral",
+    "confidence": 0.998543381690979,
+    "attn_audio_visual": 26.23552131652832
+  },
+  {
+    "utterance_id": "dia15_utt4",
+    "emotion": "surprise",
+    "confidence": 0.983758270740509,
+    "attn_audio_visual": 26.642778396606445
+  },
+  {
+    "utterance_id": "dia15_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9998503923416138,
+    "attn_audio_visual": 25.578468322753906
+  },
+  {
+    "utterance_id": "dia15_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9998400211334229,
+    "attn_audio_visual": 28.37533950805664
+  },
+  {
+    "utterance_id": "dia15_utt7",
+    "emotion": "neutral",
+    "confidence": 0.996681272983551,
+    "attn_audio_visual": 26.69536590576172
+  },
+  {
+    "utterance_id": "dia15_utt8",
+    "emotion": "sadness",
+    "confidence": 0.9582435488700867,
+    "attn_audio_visual": 26.814231872558594
+  },
+  {
+    "utterance_id": "dia15_utt9",
+    "emotion": "surprise",
+    "confidence": 0.9619787931442261,
+    "attn_audio_visual": 27.752395629882812
+  },
+  {
+    "utterance_id": "dia16_utt0",
+    "emotion": "neutral",
+    "confidence": 0.998833954334259,
+    "attn_audio_visual": 20.411251068115234
+  },
+  {
+    "utterance_id": "dia16_utt1",
+    "emotion": "joy",
+    "confidence": 0.9992000460624695,
+    "attn_audio_visual": 19.322786331176758
+  },
+  {
+    "utterance_id": "dia16_utt10",
+    "emotion": "anger",
+    "confidence": 0.7150595784187317,
+    "attn_audio_visual": 19.545391082763672
+  },
+  {
+    "utterance_id": "dia16_utt11",
+    "emotion": "anger",
+    "confidence": 0.9366729855537415,
+    "attn_audio_visual": 20.724498748779297
+  },
+  {
+    "utterance_id": "dia16_utt12",
+    "emotion": "sadness",
+    "confidence": 0.9989197254180908,
+    "attn_audio_visual": 19.735567092895508
+  },
+  {
+    "utterance_id": "dia16_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9994521737098694,
+    "attn_audio_visual": 23.02630615234375
+  },
+  {
+    "utterance_id": "dia16_utt14",
+    "emotion": "anger",
+    "confidence": 0.4738152027130127,
+    "attn_audio_visual": 22.15073013305664
+  },
+  {
+    "utterance_id": "dia16_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9996541738510132,
+    "attn_audio_visual": 21.957853317260742
+  },
+  {
+    "utterance_id": "dia16_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9993852376937866,
+    "attn_audio_visual": 18.684093475341797
+  },
+  {
+    "utterance_id": "dia16_utt17",
+    "emotion": "sadness",
+    "confidence": 0.9997223019599915,
+    "attn_audio_visual": 21.418468475341797
+  },
+  {
+    "utterance_id": "dia16_utt18",
+    "emotion": "neutral",
+    "confidence": 0.9999058246612549,
+    "attn_audio_visual": 20.39501953125
+  },
+  {
+    "utterance_id": "dia16_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9997369647026062,
+    "attn_audio_visual": 22.156930923461914
+  },
+  {
+    "utterance_id": "dia16_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9982922673225403,
+    "attn_audio_visual": 18.819053649902344
+  },
+  {
+    "utterance_id": "dia16_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9830447435379028,
+    "attn_audio_visual": 22.8182430267334
+  },
+  {
+    "utterance_id": "dia16_utt5",
+    "emotion": "neutral",
+    "confidence": 0.999765932559967,
+    "attn_audio_visual": 19.035457611083984
+  },
+  {
+    "utterance_id": "dia16_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9998263716697693,
+    "attn_audio_visual": 22.67185401916504
+  },
+  {
+    "utterance_id": "dia16_utt7",
+    "emotion": "joy",
+    "confidence": 0.9942402839660645,
+    "attn_audio_visual": 20.41853141784668
+  },
+  {
+    "utterance_id": "dia16_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9996376037597656,
+    "attn_audio_visual": 21.293315887451172
+  },
+  {
+    "utterance_id": "dia16_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9996421337127686,
+    "attn_audio_visual": 20.009180068969727
+  },
+  {
+    "utterance_id": "dia17_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9972987771034241,
+    "attn_audio_visual": 23.398088455200195
+  },
+  {
+    "utterance_id": "dia17_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998167157173157,
+    "attn_audio_visual": 22.015853881835938
+  },
+  {
+    "utterance_id": "dia17_utt2",
+    "emotion": "sadness",
+    "confidence": 0.999826967716217,
+    "attn_audio_visual": 23.570104598999023
+  },
+  {
+    "utterance_id": "dia17_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9992664456367493,
+    "attn_audio_visual": 23.347917556762695
+  },
+  {
+    "utterance_id": "dia17_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9993520379066467,
+    "attn_audio_visual": 23.581968307495117
+  },
+  {
+    "utterance_id": "dia18_utt0",
+    "emotion": "joy",
+    "confidence": 0.9989776611328125,
+    "attn_audio_visual": 24.148967742919922
+  },
+  {
+    "utterance_id": "dia18_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9802879095077515,
+    "attn_audio_visual": 24.289228439331055
+  },
+  {
+    "utterance_id": "dia18_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9996053576469421,
+    "attn_audio_visual": 23.078044891357422
+  },
+  {
+    "utterance_id": "dia18_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9556936621665955,
+    "attn_audio_visual": 23.911991119384766
+  },
+  {
+    "utterance_id": "dia18_utt12",
+    "emotion": "surprise",
+    "confidence": 0.9783219695091248,
+    "attn_audio_visual": 23.85867691040039
+  },
+  {
+    "utterance_id": "dia18_utt13",
+    "emotion": "sadness",
+    "confidence": 0.9996916055679321,
+    "attn_audio_visual": 23.766448974609375
+  },
+  {
+    "utterance_id": "dia18_utt2",
+    "emotion": "surprise",
+    "confidence": 0.8897867798805237,
+    "attn_audio_visual": 25.476673126220703
+  },
+  {
+    "utterance_id": "dia18_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9965518712997437,
+    "attn_audio_visual": 26.375694274902344
+  },
+  {
+    "utterance_id": "dia18_utt4",
+    "emotion": "sadness",
+    "confidence": 0.975985586643219,
+    "attn_audio_visual": 22.196557998657227
+  },
+  {
+    "utterance_id": "dia18_utt5",
+    "emotion": "surprise",
+    "confidence": 0.6180668473243713,
+    "attn_audio_visual": 25.061813354492188
+  },
+  {
+    "utterance_id": "dia18_utt6",
+    "emotion": "anger",
+    "confidence": 0.8665803670883179,
+    "attn_audio_visual": 22.709186553955078
+  },
+  {
+    "utterance_id": "dia18_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9473079442977905,
+    "attn_audio_visual": 22.257591247558594
+  },
+  {
+    "utterance_id": "dia18_utt8",
+    "emotion": "joy",
+    "confidence": 0.7502777576446533,
+    "attn_audio_visual": 24.105905532836914
+  },
+  {
+    "utterance_id": "dia18_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9650391936302185,
+    "attn_audio_visual": 24.141889572143555
+  },
+  {
+    "utterance_id": "dia19_utt0",
+    "emotion": "neutral",
+    "confidence": 0.8696200251579285,
+    "attn_audio_visual": 18.371389389038086
+  },
+  {
+    "utterance_id": "dia19_utt1",
+    "emotion": "sadness",
+    "confidence": 0.999405026435852,
+    "attn_audio_visual": 22.92389678955078
+  },
+  {
+    "utterance_id": "dia19_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9684039950370789,
+    "attn_audio_visual": 21.34400177001953
+  },
+  {
+    "utterance_id": "dia19_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9998225569725037,
+    "attn_audio_visual": 28.25503158569336
+  },
+  {
+    "utterance_id": "dia19_utt12",
+    "emotion": "neutral",
+    "confidence": 0.8962467908859253,
+    "attn_audio_visual": 28.181968688964844
+  },
+  {
+    "utterance_id": "dia19_utt13",
+    "emotion": "surprise",
+    "confidence": 0.7558153867721558,
+    "attn_audio_visual": 29.894533157348633
+  },
+  {
+    "utterance_id": "dia19_utt14",
+    "emotion": "joy",
+    "confidence": 0.9964783787727356,
+    "attn_audio_visual": 28.29788589477539
+  },
+  {
+    "utterance_id": "dia19_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9998316764831543,
+    "attn_audio_visual": 20.751306533813477
+  },
+  {
+    "utterance_id": "dia19_utt16",
+    "emotion": "joy",
+    "confidence": 0.999745786190033,
+    "attn_audio_visual": 23.85576057434082
+  },
+  {
+    "utterance_id": "dia19_utt17",
+    "emotion": "neutral",
+    "confidence": 0.999652624130249,
+    "attn_audio_visual": 23.07551383972168
+  },
+  {
+    "utterance_id": "dia19_utt18",
+    "emotion": "neutral",
+    "confidence": 0.9806073904037476,
+    "attn_audio_visual": 23.82178497314453
+  },
+  {
+    "utterance_id": "dia19_utt19",
+    "emotion": "neutral",
+    "confidence": 0.6848049163818359,
+    "attn_audio_visual": 23.308740615844727
+  },
+  {
+    "utterance_id": "dia19_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9993023872375488,
+    "attn_audio_visual": 24.423404693603516
+  },
+  {
+    "utterance_id": "dia19_utt20",
+    "emotion": "anger",
+    "confidence": 0.43907901644706726,
+    "attn_audio_visual": 23.996458053588867
+  },
+  {
+    "utterance_id": "dia19_utt21",
+    "emotion": "joy",
+    "confidence": 0.9996715784072876,
+    "attn_audio_visual": 24.935211181640625
+  },
+  {
+    "utterance_id": "dia19_utt22",
+    "emotion": "neutral",
+    "confidence": 0.9875726699829102,
+    "attn_audio_visual": 23.21209144592285
+  },
+  {
+    "utterance_id": "dia19_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9535688161849976,
+    "attn_audio_visual": 22.472179412841797
+  },
+  {
+    "utterance_id": "dia19_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9955833554267883,
+    "attn_audio_visual": 22.219398498535156
+  },
+  {
+    "utterance_id": "dia19_utt5",
+    "emotion": "joy",
+    "confidence": 0.9735413789749146,
+    "attn_audio_visual": 26.956262588500977
+  },
+  {
+    "utterance_id": "dia19_utt6",
+    "emotion": "neutral",
+    "confidence": 0.8740127086639404,
+    "attn_audio_visual": 20.97682762145996
+  },
+  {
+    "utterance_id": "dia19_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9989097118377686,
+    "attn_audio_visual": 21.197837829589844
+  },
+  {
+    "utterance_id": "dia19_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9844754338264465,
+    "attn_audio_visual": 21.104736328125
+  },
+  {
+    "utterance_id": "dia19_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9998801946640015,
+    "attn_audio_visual": 24.019073486328125
+  },
+  {
+    "utterance_id": "dia1_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9604813456535339,
+    "attn_audio_visual": 21.384748458862305
+  },
+  {
+    "utterance_id": "dia1_utt1",
+    "emotion": "joy",
+    "confidence": 0.5456962585449219,
+    "attn_audio_visual": 24.80748176574707
+  },
+  {
+    "utterance_id": "dia1_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9762364029884338,
+    "attn_audio_visual": 27.62671661376953
+  },
+  {
+    "utterance_id": "dia1_utt11",
+    "emotion": "sadness",
+    "confidence": 0.9488818645477295,
+    "attn_audio_visual": 25.59956169128418
+  },
+  {
+    "utterance_id": "dia1_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9993388056755066,
+    "attn_audio_visual": 27.433488845825195
+  },
+  {
+    "utterance_id": "dia1_utt13",
+    "emotion": "joy",
+    "confidence": 0.9980655312538147,
+    "attn_audio_visual": 27.585195541381836
+  },
+  {
+    "utterance_id": "dia1_utt14",
+    "emotion": "neutral",
+    "confidence": 0.9862361550331116,
+    "attn_audio_visual": 25.139846801757812
+  },
+  {
+    "utterance_id": "dia1_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9647659659385681,
+    "attn_audio_visual": 25.541332244873047
+  },
+  {
+    "utterance_id": "dia1_utt2",
+    "emotion": "joy",
+    "confidence": 0.9279958009719849,
+    "attn_audio_visual": 26.40559196472168
+  },
+  {
+    "utterance_id": "dia1_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9851099252700806,
+    "attn_audio_visual": 27.31693458557129
+  },
+  {
+    "utterance_id": "dia1_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9995658993721008,
+    "attn_audio_visual": 21.65877914428711
+  },
+  {
+    "utterance_id": "dia1_utt5",
+    "emotion": "joy",
+    "confidence": 0.6898273229598999,
+    "attn_audio_visual": 21.902345657348633
+  },
+  {
+    "utterance_id": "dia1_utt6",
+    "emotion": "joy",
+    "confidence": 0.9699164032936096,
+    "attn_audio_visual": 23.9007625579834
+  },
+  {
+    "utterance_id": "dia1_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9996851682662964,
+    "attn_audio_visual": 25.2928524017334
+  },
+  {
+    "utterance_id": "dia1_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9996883869171143,
+    "attn_audio_visual": 29.579151153564453
+  },
+  {
+    "utterance_id": "dia1_utt9",
+    "emotion": "neutral",
+    "confidence": 0.998145341873169,
+    "attn_audio_visual": 20.292787551879883
+  },
+  {
+    "utterance_id": "dia20_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9996401071548462,
+    "attn_audio_visual": 21.029916763305664
+  },
+  {
+    "utterance_id": "dia20_utt1",
+    "emotion": "neutral",
+    "confidence": 0.8341857194900513,
+    "attn_audio_visual": 26.666269302368164
+  },
+  {
+    "utterance_id": "dia20_utt2",
+    "emotion": "joy",
+    "confidence": 0.9995488524436951,
+    "attn_audio_visual": 27.080554962158203
+  },
+  {
+    "utterance_id": "dia20_utt3",
+    "emotion": "joy",
+    "confidence": 0.9861534833908081,
+    "attn_audio_visual": 26.402624130249023
+  },
+  {
+    "utterance_id": "dia20_utt4",
+    "emotion": "sadness",
+    "confidence": 0.5869419574737549,
+    "attn_audio_visual": 27.963281631469727
+  },
+  {
+    "utterance_id": "dia20_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9992386102676392,
+    "attn_audio_visual": 27.881393432617188
+  },
+  {
+    "utterance_id": "dia20_utt6",
+    "emotion": "sadness",
+    "confidence": 0.877556562423706,
+    "attn_audio_visual": 27.097412109375
+  },
+  {
+    "utterance_id": "dia20_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9987372756004333,
+    "attn_audio_visual": 20.900964736938477
+  },
+  {
+    "utterance_id": "dia21_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998620748519897,
+    "attn_audio_visual": 27.292299270629883
+  },
+  {
+    "utterance_id": "dia21_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9897214770317078,
+    "attn_audio_visual": 26.42975616455078
+  },
+  {
+    "utterance_id": "dia21_utt2",
+    "emotion": "surprise",
+    "confidence": 0.8173031806945801,
+    "attn_audio_visual": 26.058645248413086
+  },
+  {
+    "utterance_id": "dia21_utt3",
+    "emotion": "surprise",
+    "confidence": 0.7565604448318481,
+    "attn_audio_visual": 22.9509220123291
+  },
+  {
+    "utterance_id": "dia21_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9892923831939697,
+    "attn_audio_visual": 25.10637855529785
+  },
+  {
+    "utterance_id": "dia21_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9965198040008545,
+    "attn_audio_visual": 28.6551570892334
+  },
+  {
+    "utterance_id": "dia21_utt6",
+    "emotion": "surprise",
+    "confidence": 0.8157147169113159,
+    "attn_audio_visual": 23.426145553588867
+  },
+  {
+    "utterance_id": "dia22_utt0",
+    "emotion": "anger",
+    "confidence": 0.6789121031761169,
+    "attn_audio_visual": 28.197237014770508
+  },
+  {
+    "utterance_id": "dia22_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9913023710250854,
+    "attn_audio_visual": 21.824949264526367
+  },
+  {
+    "utterance_id": "dia22_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9997081160545349,
+    "attn_audio_visual": 27.287023544311523
+  },
+  {
+    "utterance_id": "dia22_utt11",
+    "emotion": "surprise",
+    "confidence": 0.8705984950065613,
+    "attn_audio_visual": 25.23980712890625
+  },
+  {
+    "utterance_id": "dia22_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9987390637397766,
+    "attn_audio_visual": 26.194894790649414
+  },
+  {
+    "utterance_id": "dia22_utt13",
+    "emotion": "surprise",
+    "confidence": 0.9235841035842896,
+    "attn_audio_visual": 23.98649787902832
+  },
+  {
+    "utterance_id": "dia22_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9948000907897949,
+    "attn_audio_visual": 23.626867294311523
+  },
+  {
+    "utterance_id": "dia22_utt3",
+    "emotion": "surprise",
+    "confidence": 0.8406317830085754,
+    "attn_audio_visual": 25.526880264282227
+  },
+  {
+    "utterance_id": "dia22_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9980868101119995,
+    "attn_audio_visual": 27.0505313873291
+  },
+  {
+    "utterance_id": "dia22_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9964732527732849,
+    "attn_audio_visual": 29.45722770690918
+  },
+  {
+    "utterance_id": "dia22_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9987214207649231,
+    "attn_audio_visual": 23.622581481933594
+  },
+  {
+    "utterance_id": "dia22_utt7",
+    "emotion": "neutral",
+    "confidence": 0.99683678150177,
+    "attn_audio_visual": 26.576004028320312
+  },
+  {
+    "utterance_id": "dia22_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9978747367858887,
+    "attn_audio_visual": 25.244327545166016
+  },
+  {
+    "utterance_id": "dia22_utt9",
+    "emotion": "surprise",
+    "confidence": 0.8370428085327148,
+    "attn_audio_visual": 25.115703582763672
+  },
+  {
+    "utterance_id": "dia23_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9960888624191284,
+    "attn_audio_visual": 24.227014541625977
+  },
+  {
+    "utterance_id": "dia23_utt1",
+    "emotion": "joy",
+    "confidence": 0.9529553055763245,
+    "attn_audio_visual": 26.506311416625977
+  },
+  {
+    "utterance_id": "dia23_utt10",
+    "emotion": "anger",
+    "confidence": 0.9994428753852844,
+    "attn_audio_visual": 22.1373291015625
+  },
+  {
+    "utterance_id": "dia23_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9934871196746826,
+    "attn_audio_visual": 27.64283561706543
+  },
+  {
+    "utterance_id": "dia23_utt12",
+    "emotion": "joy",
+    "confidence": 0.99216228723526,
+    "attn_audio_visual": 21.781715393066406
+  },
+  {
+    "utterance_id": "dia23_utt13",
+    "emotion": "surprise",
+    "confidence": 0.9575956463813782,
+    "attn_audio_visual": 24.05413818359375
+  },
+  {
+    "utterance_id": "dia23_utt2",
+    "emotion": "anger",
+    "confidence": 0.9997767806053162,
+    "attn_audio_visual": 19.84612464904785
+  },
+  {
+    "utterance_id": "dia23_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9998775720596313,
+    "attn_audio_visual": 22.82155418395996
+  },
+  {
+    "utterance_id": "dia23_utt4",
+    "emotion": "anger",
+    "confidence": 0.7969962358474731,
+    "attn_audio_visual": 20.257978439331055
+  },
+  {
+    "utterance_id": "dia23_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9984132051467896,
+    "attn_audio_visual": 23.758684158325195
+  },
+  {
+    "utterance_id": "dia23_utt6",
+    "emotion": "anger",
+    "confidence": 0.9684094786643982,
+    "attn_audio_visual": 22.34809684753418
+  },
+  {
+    "utterance_id": "dia23_utt7",
+    "emotion": "joy",
+    "confidence": 0.6554886102676392,
+    "attn_audio_visual": 22.588735580444336
+  },
+  {
+    "utterance_id": "dia23_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9948663711547852,
+    "attn_audio_visual": 23.147388458251953
+  },
+  {
+    "utterance_id": "dia23_utt9",
+    "emotion": "surprise",
+    "confidence": 0.9916948676109314,
+    "attn_audio_visual": 22.088085174560547
+  },
+  {
+    "utterance_id": "dia24_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9916502237319946,
+    "attn_audio_visual": 20.01849937438965
+  },
+  {
+    "utterance_id": "dia24_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9789292216300964,
+    "attn_audio_visual": 20.79218864440918
+  },
+  {
+    "utterance_id": "dia24_utt2",
+    "emotion": "anger",
+    "confidence": 0.9995912909507751,
+    "attn_audio_visual": 21.661930084228516
+  },
+  {
+    "utterance_id": "dia24_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998169541358948,
+    "attn_audio_visual": 22.113874435424805
+  },
+  {
+    "utterance_id": "dia24_utt4",
+    "emotion": "joy",
+    "confidence": 0.9879652261734009,
+    "attn_audio_visual": 21.504446029663086
+  },
+  {
+    "utterance_id": "dia24_utt5",
+    "emotion": "neutral",
+    "confidence": 0.6762996315956116,
+    "attn_audio_visual": 19.452293395996094
+  },
+  {
+    "utterance_id": "dia24_utt6",
+    "emotion": "neutral",
+    "confidence": 0.999701201915741,
+    "attn_audio_visual": 21.37137222290039
+  },
+  {
+    "utterance_id": "dia24_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9980165958404541,
+    "attn_audio_visual": 20.329683303833008
+  },
+  {
+    "utterance_id": "dia24_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9998912811279297,
+    "attn_audio_visual": 20.013446807861328
+  },
+  {
+    "utterance_id": "dia25_utt0",
+    "emotion": "anger",
+    "confidence": 0.6865748167037964,
+    "attn_audio_visual": 25.997194290161133
+  },
+  {
+    "utterance_id": "dia25_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9919907450675964,
+    "attn_audio_visual": 25.184677124023438
+  },
+  {
+    "utterance_id": "dia25_utt2",
+    "emotion": "neutral",
+    "confidence": 0.7520203590393066,
+    "attn_audio_visual": 25.415098190307617
+  },
+  {
+    "utterance_id": "dia25_utt3",
+    "emotion": "surprise",
+    "confidence": 0.7008667588233948,
+    "attn_audio_visual": 21.3746280670166
+  },
+  {
+    "utterance_id": "dia25_utt4",
+    "emotion": "anger",
+    "confidence": 0.9996274709701538,
+    "attn_audio_visual": 24.52545928955078
+  },
+  {
+    "utterance_id": "dia25_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9984403252601624,
+    "attn_audio_visual": 21.88075828552246
+  },
+  {
+    "utterance_id": "dia26_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998997449874878,
+    "attn_audio_visual": 21.174097061157227
+  },
+  {
+    "utterance_id": "dia26_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9919716119766235,
+    "attn_audio_visual": 28.997013092041016
+  },
+  {
+    "utterance_id": "dia26_utt10",
+    "emotion": "disgust",
+    "confidence": 0.8320371508598328,
+    "attn_audio_visual": 26.924903869628906
+  },
+  {
+    "utterance_id": "dia26_utt11",
+    "emotion": "sadness",
+    "confidence": 0.5472041368484497,
+    "attn_audio_visual": 22.4096736907959
+  },
+  {
+    "utterance_id": "dia26_utt12",
+    "emotion": "sadness",
+    "confidence": 0.9850472211837769,
+    "attn_audio_visual": 23.680591583251953
+  },
+  {
+    "utterance_id": "dia26_utt13",
+    "emotion": "sadness",
+    "confidence": 0.9956945180892944,
+    "attn_audio_visual": 22.187122344970703
+  },
+  {
+    "utterance_id": "dia26_utt14",
+    "emotion": "surprise",
+    "confidence": 0.5936506986618042,
+    "attn_audio_visual": 22.780006408691406
+  },
+  {
+    "utterance_id": "dia26_utt15",
+    "emotion": "sadness",
+    "confidence": 0.9968825578689575,
+    "attn_audio_visual": 22.78325080871582
+  },
+  {
+    "utterance_id": "dia26_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9998661279678345,
+    "attn_audio_visual": 23.08441925048828
+  },
+  {
+    "utterance_id": "dia26_utt2",
+    "emotion": "sadness",
+    "confidence": 0.8675247430801392,
+    "attn_audio_visual": 22.922260284423828
+  },
+  {
+    "utterance_id": "dia26_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9991338849067688,
+    "attn_audio_visual": 23.233938217163086
+  },
+  {
+    "utterance_id": "dia26_utt4",
+    "emotion": "sadness",
+    "confidence": 0.984557032585144,
+    "attn_audio_visual": 23.38667106628418
+  },
+  {
+    "utterance_id": "dia26_utt5",
+    "emotion": "anger",
+    "confidence": 0.9943292737007141,
+    "attn_audio_visual": 23.857892990112305
+  },
+  {
+    "utterance_id": "dia26_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9991388320922852,
+    "attn_audio_visual": 30.412343978881836
+  },
+  {
+    "utterance_id": "dia26_utt7",
+    "emotion": "sadness",
+    "confidence": 0.5629305243492126,
+    "attn_audio_visual": 28.3715763092041
+  },
+  {
+    "utterance_id": "dia26_utt8",
+    "emotion": "joy",
+    "confidence": 0.7703217267990112,
+    "attn_audio_visual": 23.430591583251953
+  },
+  {
+    "utterance_id": "dia26_utt9",
+    "emotion": "anger",
+    "confidence": 0.9975351095199585,
+    "attn_audio_visual": 25.72608757019043
+  },
+  {
+    "utterance_id": "dia27_utt0",
+    "emotion": "joy",
+    "confidence": 0.9850752353668213,
+    "attn_audio_visual": 23.76383399963379
+  },
+  {
+    "utterance_id": "dia27_utt1",
+    "emotion": "neutral",
+    "confidence": 0.49543333053588867,
+    "attn_audio_visual": 25.033954620361328
+  },
+  {
+    "utterance_id": "dia27_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9973297119140625,
+    "attn_audio_visual": 25.51999282836914
+  },
+  {
+    "utterance_id": "dia27_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9762846827507019,
+    "attn_audio_visual": 25.267911911010742
+  },
+  {
+    "utterance_id": "dia27_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9895558953285217,
+    "attn_audio_visual": 25.59934425354004
+  },
+  {
+    "utterance_id": "dia27_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9998136162757874,
+    "attn_audio_visual": 25.20718002319336
+  },
+  {
+    "utterance_id": "dia27_utt6",
+    "emotion": "neutral",
+    "confidence": 0.5505433082580566,
+    "attn_audio_visual": 24.967266082763672
+  },
+  {
+    "utterance_id": "dia27_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9997076392173767,
+    "attn_audio_visual": 24.817485809326172
+  },
+  {
+    "utterance_id": "dia27_utt8",
+    "emotion": "neutral",
+    "confidence": 0.999769389629364,
+    "attn_audio_visual": 24.664268493652344
+  },
+  {
+    "utterance_id": "dia27_utt9",
+    "emotion": "surprise",
+    "confidence": 0.9970963001251221,
+    "attn_audio_visual": 25.9674129486084
+  },
+  {
+    "utterance_id": "dia28_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9996893405914307,
+    "attn_audio_visual": 25.134233474731445
+  },
+  {
+    "utterance_id": "dia28_utt1",
+    "emotion": "anger",
+    "confidence": 0.3901265859603882,
+    "attn_audio_visual": 22.93765640258789
+  },
+  {
+    "utterance_id": "dia28_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9997474551200867,
+    "attn_audio_visual": 23.625774383544922
+  },
+  {
+    "utterance_id": "dia28_utt2",
+    "emotion": "anger",
+    "confidence": 0.5347488522529602,
+    "attn_audio_visual": 24.683725357055664
+  },
+  {
+    "utterance_id": "dia28_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9995825886726379,
+    "attn_audio_visual": 24.14959716796875
+  },
+  {
+    "utterance_id": "dia28_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9864379167556763,
+    "attn_audio_visual": 24.251192092895508
+  },
+  {
+    "utterance_id": "dia28_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9906089305877686,
+    "attn_audio_visual": 26.780866622924805
+  },
+  {
+    "utterance_id": "dia28_utt6",
+    "emotion": "sadness",
+    "confidence": 0.5882274508476257,
+    "attn_audio_visual": 27.041284561157227
+  },
+  {
+    "utterance_id": "dia28_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9835753440856934,
+    "attn_audio_visual": 22.192251205444336
+  },
+  {
+    "utterance_id": "dia28_utt8",
+    "emotion": "sadness",
+    "confidence": 0.8173167109489441,
+    "attn_audio_visual": 27.744020462036133
+  },
+  {
+    "utterance_id": "dia28_utt9",
+    "emotion": "joy",
+    "confidence": 0.933459460735321,
+    "attn_audio_visual": 22.48086929321289
+  },
+  {
+    "utterance_id": "dia29_utt0",
+    "emotion": "joy",
+    "confidence": 0.9908032417297363,
+    "attn_audio_visual": 27.5692138671875
+  },
+  {
+    "utterance_id": "dia29_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9683859944343567,
+    "attn_audio_visual": 27.624752044677734
+  },
+  {
+    "utterance_id": "dia29_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9987828135490417,
+    "attn_audio_visual": 22.427947998046875
+  },
+  {
+    "utterance_id": "dia29_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9356403350830078,
+    "attn_audio_visual": 25.251087188720703
+  },
+  {
+    "utterance_id": "dia29_utt3",
+    "emotion": "neutral",
+    "confidence": 0.8927809000015259,
+    "attn_audio_visual": 25.664730072021484
+  },
+  {
+    "utterance_id": "dia29_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9998698234558105,
+    "attn_audio_visual": 23.012298583984375
+  },
+  {
+    "utterance_id": "dia29_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9996980428695679,
+    "attn_audio_visual": 21.304536819458008
+  },
+  {
+    "utterance_id": "dia29_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9997089505195618,
+    "attn_audio_visual": 32.012481689453125
+  },
+  {
+    "utterance_id": "dia29_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9998831748962402,
+    "attn_audio_visual": 23.724281311035156
+  },
+  {
+    "utterance_id": "dia29_utt8",
+    "emotion": "sadness",
+    "confidence": 0.803438127040863,
+    "attn_audio_visual": 29.259136199951172
+  },
+  {
+    "utterance_id": "dia29_utt9",
+    "emotion": "joy",
+    "confidence": 0.6735993027687073,
+    "attn_audio_visual": 27.509546279907227
+  },
+  {
+    "utterance_id": "dia2_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9995284080505371,
+    "attn_audio_visual": 21.948211669921875
+  },
+  {
+    "utterance_id": "dia2_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9941171407699585,
+    "attn_audio_visual": 22.017257690429688
+  },
+  {
+    "utterance_id": "dia2_utt2",
+    "emotion": "sadness",
+    "confidence": 0.8251104354858398,
+    "attn_audio_visual": 22.900033950805664
+  },
+  {
+    "utterance_id": "dia2_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9997912049293518,
+    "attn_audio_visual": 28.088350296020508
+  },
+  {
+    "utterance_id": "dia2_utt4",
+    "emotion": "joy",
+    "confidence": 0.992649257183075,
+    "attn_audio_visual": 23.769378662109375
+  },
+  {
+    "utterance_id": "dia2_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9874870777130127,
+    "attn_audio_visual": 26.455198287963867
+  },
+  {
+    "utterance_id": "dia30_utt0",
+    "emotion": "fear",
+    "confidence": 0.6277800798416138,
+    "attn_audio_visual": 23.573272705078125
+  },
+  {
+    "utterance_id": "dia30_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9899114966392517,
+    "attn_audio_visual": 22.922733306884766
+  },
+  {
+    "utterance_id": "dia30_utt10",
+    "emotion": "neutral",
+    "confidence": 0.8473811149597168,
+    "attn_audio_visual": 23.807430267333984
+  },
+  {
+    "utterance_id": "dia30_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9998210072517395,
+    "attn_audio_visual": 22.4727840423584
+  },
+  {
+    "utterance_id": "dia30_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9991003274917603,
+    "attn_audio_visual": 24.64252281188965
+  },
+  {
+    "utterance_id": "dia30_utt13",
+    "emotion": "sadness",
+    "confidence": 0.9976009726524353,
+    "attn_audio_visual": 25.30592918395996
+  },
+  {
+    "utterance_id": "dia30_utt14",
+    "emotion": "sadness",
+    "confidence": 0.9680391550064087,
+    "attn_audio_visual": 22.764604568481445
+  },
+  {
+    "utterance_id": "dia30_utt15",
+    "emotion": "sadness",
+    "confidence": 0.9996483325958252,
+    "attn_audio_visual": 27.148303985595703
+  },
+  {
+    "utterance_id": "dia30_utt16",
+    "emotion": "joy",
+    "confidence": 0.5395730137825012,
+    "attn_audio_visual": 30.751466751098633
+  },
+  {
+    "utterance_id": "dia30_utt17",
+    "emotion": "sadness",
+    "confidence": 0.5152208805084229,
+    "attn_audio_visual": 25.261873245239258
+  },
+  {
+    "utterance_id": "dia30_utt18",
+    "emotion": "neutral",
+    "confidence": 0.988871157169342,
+    "attn_audio_visual": 26.174604415893555
+  },
+  {
+    "utterance_id": "dia30_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9884445667266846,
+    "attn_audio_visual": 30.638744354248047
+  },
+  {
+    "utterance_id": "dia30_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9996224641799927,
+    "attn_audio_visual": 23.485952377319336
+  },
+  {
+    "utterance_id": "dia30_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9979767203330994,
+    "attn_audio_visual": 27.5325927734375
+  },
+  {
+    "utterance_id": "dia30_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9998430013656616,
+    "attn_audio_visual": 25.606996536254883
+  },
+  {
+    "utterance_id": "dia30_utt6",
+    "emotion": "surprise",
+    "confidence": 0.5327022671699524,
+    "attn_audio_visual": 27.14269256591797
+  },
+  {
+    "utterance_id": "dia30_utt7",
+    "emotion": "surprise",
+    "confidence": 0.8498809337615967,
+    "attn_audio_visual": 22.006391525268555
+  },
+  {
+    "utterance_id": "dia30_utt8",
+    "emotion": "neutral",
+    "confidence": 0.985230028629303,
+    "attn_audio_visual": 23.106250762939453
+  },
+  {
+    "utterance_id": "dia30_utt9",
+    "emotion": "anger",
+    "confidence": 0.9984403252601624,
+    "attn_audio_visual": 22.170942306518555
+  },
+  {
+    "utterance_id": "dia31_utt0",
+    "emotion": "anger",
+    "confidence": 0.8981202244758606,
+    "attn_audio_visual": 20.749277114868164
+  },
+  {
+    "utterance_id": "dia31_utt1",
+    "emotion": "anger",
+    "confidence": 0.6790856719017029,
+    "attn_audio_visual": 22.7636775970459
+  },
+  {
+    "utterance_id": "dia31_utt10",
+    "emotion": "sadness",
+    "confidence": 0.6944109797477722,
+    "attn_audio_visual": 19.729835510253906
+  },
+  {
+    "utterance_id": "dia31_utt11",
+    "emotion": "surprise",
+    "confidence": 0.9552130103111267,
+    "attn_audio_visual": 20.433862686157227
+  },
+  {
+    "utterance_id": "dia31_utt12",
+    "emotion": "sadness",
+    "confidence": 0.9992145299911499,
+    "attn_audio_visual": 21.00139808654785
+  },
+  {
+    "utterance_id": "dia31_utt2",
+    "emotion": "joy",
+    "confidence": 0.9996786117553711,
+    "attn_audio_visual": 19.518274307250977
+  },
+  {
+    "utterance_id": "dia31_utt3",
+    "emotion": "joy",
+    "confidence": 0.991500735282898,
+    "attn_audio_visual": 19.527164459228516
+  },
+  {
+    "utterance_id": "dia31_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9943388104438782,
+    "attn_audio_visual": 20.244653701782227
+  },
+  {
+    "utterance_id": "dia31_utt5",
+    "emotion": "joy",
+    "confidence": 0.8726296424865723,
+    "attn_audio_visual": 19.057912826538086
+  },
+  {
+    "utterance_id": "dia31_utt6",
+    "emotion": "sadness",
+    "confidence": 0.7093851566314697,
+    "attn_audio_visual": 22.261524200439453
+  },
+  {
+    "utterance_id": "dia31_utt7",
+    "emotion": "sadness",
+    "confidence": 0.5126882791519165,
+    "attn_audio_visual": 21.306249618530273
+  },
+  {
+    "utterance_id": "dia31_utt8",
+    "emotion": "joy",
+    "confidence": 0.9988560676574707,
+    "attn_audio_visual": 27.398624420166016
+  },
+  {
+    "utterance_id": "dia31_utt9",
+    "emotion": "joy",
+    "confidence": 0.9986125230789185,
+    "attn_audio_visual": 19.03867530822754
+  },
+  {
+    "utterance_id": "dia32_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998971223831177,
+    "attn_audio_visual": 32.362274169921875
+  },
+  {
+    "utterance_id": "dia32_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998462200164795,
+    "attn_audio_visual": 32.85245895385742
+  },
+  {
+    "utterance_id": "dia32_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9998294115066528,
+    "attn_audio_visual": 25.193561553955078
+  },
+  {
+    "utterance_id": "dia32_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9997687935829163,
+    "attn_audio_visual": 27.507301330566406
+  },
+  {
+    "utterance_id": "dia32_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9998962879180908,
+    "attn_audio_visual": 29.1468505859375
+  },
+  {
+    "utterance_id": "dia32_utt13",
+    "emotion": "neutral",
+    "confidence": 0.999896764755249,
+    "attn_audio_visual": 29.518600463867188
+  },
+  {
+    "utterance_id": "dia32_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9427533745765686,
+    "attn_audio_visual": 26.339345932006836
+  },
+  {
+    "utterance_id": "dia32_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998286962509155,
+    "attn_audio_visual": 25.68370819091797
+  },
+  {
+    "utterance_id": "dia32_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9996769428253174,
+    "attn_audio_visual": 26.615503311157227
+  },
+  {
+    "utterance_id": "dia32_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9841902852058411,
+    "attn_audio_visual": 26.35137176513672
+  },
+  {
+    "utterance_id": "dia32_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9998088479042053,
+    "attn_audio_visual": 28.7987003326416
+  },
+  {
+    "utterance_id": "dia32_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9983654618263245,
+    "attn_audio_visual": 24.6573486328125
+  },
+  {
+    "utterance_id": "dia32_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9997890591621399,
+    "attn_audio_visual": 24.979345321655273
+  },
+  {
+    "utterance_id": "dia32_utt9",
+    "emotion": "sadness",
+    "confidence": 0.9758191704750061,
+    "attn_audio_visual": 24.53037452697754
+  },
+  {
+    "utterance_id": "dia33_utt0",
+    "emotion": "anger",
+    "confidence": 0.7438709139823914,
+    "attn_audio_visual": 23.869895935058594
+  },
+  {
+    "utterance_id": "dia33_utt1",
+    "emotion": "surprise",
+    "confidence": 0.8370797634124756,
+    "attn_audio_visual": 22.557777404785156
+  },
+  {
+    "utterance_id": "dia34_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998736381530762,
+    "attn_audio_visual": 25.874107360839844
+  },
+  {
+    "utterance_id": "dia34_utt1",
+    "emotion": "joy",
+    "confidence": 0.6853514909744263,
+    "attn_audio_visual": 26.824687957763672
+  },
+  {
+    "utterance_id": "dia34_utt10",
+    "emotion": "joy",
+    "confidence": 0.7718067169189453,
+    "attn_audio_visual": 24.56788444519043
+  },
+  {
+    "utterance_id": "dia34_utt2",
+    "emotion": "sadness",
+    "confidence": 0.6157675981521606,
+    "attn_audio_visual": 26.70960807800293
+  },
+  {
+    "utterance_id": "dia34_utt3",
+    "emotion": "neutral",
+    "confidence": 0.7113693356513977,
+    "attn_audio_visual": 25.82053565979004
+  },
+  {
+    "utterance_id": "dia34_utt4",
+    "emotion": "neutral",
+    "confidence": 0.7075297832489014,
+    "attn_audio_visual": 26.46586799621582
+  },
+  {
+    "utterance_id": "dia34_utt5",
+    "emotion": "neutral",
+    "confidence": 0.992612361907959,
+    "attn_audio_visual": 24.83829116821289
+  },
+  {
+    "utterance_id": "dia34_utt6",
+    "emotion": "anger",
+    "confidence": 0.9955240488052368,
+    "attn_audio_visual": 25.59170913696289
+  },
+  {
+    "utterance_id": "dia34_utt7",
+    "emotion": "anger",
+    "confidence": 0.9977409839630127,
+    "attn_audio_visual": 24.21286392211914
+  },
+  {
+    "utterance_id": "dia34_utt8",
+    "emotion": "fear",
+    "confidence": 0.4705871343612671,
+    "attn_audio_visual": 25.59425926208496
+  },
+  {
+    "utterance_id": "dia34_utt9",
+    "emotion": "joy",
+    "confidence": 0.7825077176094055,
+    "attn_audio_visual": 26.45985984802246
+  },
+  {
+    "utterance_id": "dia35_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998311996459961,
+    "attn_audio_visual": 22.10320472717285
+  },
+  {
+    "utterance_id": "dia36_utt0",
+    "emotion": "neutral",
+    "confidence": 0.994966447353363,
+    "attn_audio_visual": 23.49860954284668
+  },
+  {
+    "utterance_id": "dia36_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9993189573287964,
+    "attn_audio_visual": 23.184709548950195
+  },
+  {
+    "utterance_id": "dia36_utt10",
+    "emotion": "surprise",
+    "confidence": 0.9995817542076111,
+    "attn_audio_visual": 19.299299240112305
+  },
+  {
+    "utterance_id": "dia36_utt11",
+    "emotion": "anger",
+    "confidence": 0.9997792840003967,
+    "attn_audio_visual": 21.592552185058594
+  },
+  {
+    "utterance_id": "dia36_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9997401833534241,
+    "attn_audio_visual": 21.55843734741211
+  },
+  {
+    "utterance_id": "dia36_utt3",
+    "emotion": "joy",
+    "confidence": 0.9899032115936279,
+    "attn_audio_visual": 22.9883975982666
+  },
+  {
+    "utterance_id": "dia36_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9697498679161072,
+    "attn_audio_visual": 24.380075454711914
+  },
+  {
+    "utterance_id": "dia36_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9997617602348328,
+    "attn_audio_visual": 25.41942596435547
+  },
+  {
+    "utterance_id": "dia36_utt6",
+    "emotion": "anger",
+    "confidence": 0.8200156092643738,
+    "attn_audio_visual": 22.03804588317871
+  },
+  {
+    "utterance_id": "dia36_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9998893737792969,
+    "attn_audio_visual": 25.117212295532227
+  },
+  {
+    "utterance_id": "dia36_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9993135929107666,
+    "attn_audio_visual": 24.47211265563965
+  },
+  {
+    "utterance_id": "dia36_utt9",
+    "emotion": "sadness",
+    "confidence": 0.5122573971748352,
+    "attn_audio_visual": 22.061763763427734
+  },
+  {
+    "utterance_id": "dia37_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9997208714485168,
+    "attn_audio_visual": 25.204545974731445
+  },
+  {
+    "utterance_id": "dia37_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9997653365135193,
+    "attn_audio_visual": 27.28911590576172
+  },
+  {
+    "utterance_id": "dia37_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9920195937156677,
+    "attn_audio_visual": 25.001628875732422
+  },
+  {
+    "utterance_id": "dia37_utt2",
+    "emotion": "neutral",
+    "confidence": 0.8553995490074158,
+    "attn_audio_visual": 26.15917205810547
+  },
+  {
+    "utterance_id": "dia37_utt3",
+    "emotion": "joy",
+    "confidence": 0.9985414743423462,
+    "attn_audio_visual": 25.309823989868164
+  },
+  {
+    "utterance_id": "dia37_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9998711347579956,
+    "attn_audio_visual": 25.673175811767578
+  },
+  {
+    "utterance_id": "dia37_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9743813872337341,
+    "attn_audio_visual": 28.309904098510742
+  },
+  {
+    "utterance_id": "dia37_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9991931319236755,
+    "attn_audio_visual": 27.48285675048828
+  },
+  {
+    "utterance_id": "dia37_utt7",
+    "emotion": "joy",
+    "confidence": 0.9981791973114014,
+    "attn_audio_visual": 28.441186904907227
+  },
+  {
+    "utterance_id": "dia37_utt8",
+    "emotion": "sadness",
+    "confidence": 0.8193585872650146,
+    "attn_audio_visual": 30.132156372070312
+  },
+  {
+    "utterance_id": "dia37_utt9",
+    "emotion": "joy",
+    "confidence": 0.9875872731208801,
+    "attn_audio_visual": 26.437564849853516
+  },
+  {
+    "utterance_id": "dia38_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9990334510803223,
+    "attn_audio_visual": 21.551158905029297
+  },
+  {
+    "utterance_id": "dia39_utt0",
+    "emotion": "neutral",
+    "confidence": 0.8888726830482483,
+    "attn_audio_visual": 20.30286979675293
+  },
+  {
+    "utterance_id": "dia39_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9988023042678833,
+    "attn_audio_visual": 19.145009994506836
+  },
+  {
+    "utterance_id": "dia39_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9965952038764954,
+    "attn_audio_visual": 20.08223533630371
+  },
+  {
+    "utterance_id": "dia3_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998776912689209,
+    "attn_audio_visual": 23.1239013671875
+  },
+  {
+    "utterance_id": "dia3_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9392458200454712,
+    "attn_audio_visual": 32.42323684692383
+  },
+  {
+    "utterance_id": "dia3_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9844610095024109,
+    "attn_audio_visual": 23.460153579711914
+  },
+  {
+    "utterance_id": "dia40_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9158024787902832,
+    "attn_audio_visual": 19.219453811645508
+  },
+  {
+    "utterance_id": "dia40_utt1",
+    "emotion": "joy",
+    "confidence": 0.9994931221008301,
+    "attn_audio_visual": 19.964523315429688
+  },
+  {
+    "utterance_id": "dia40_utt10",
+    "emotion": "joy",
+    "confidence": 0.9990811347961426,
+    "attn_audio_visual": 24.087528228759766
+  },
+  {
+    "utterance_id": "dia40_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9902594685554504,
+    "attn_audio_visual": 25.420284271240234
+  },
+  {
+    "utterance_id": "dia40_utt3",
+    "emotion": "surprise",
+    "confidence": 0.6354003548622131,
+    "attn_audio_visual": 26.347898483276367
+  },
+  {
+    "utterance_id": "dia40_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9998581409454346,
+    "attn_audio_visual": 32.476890563964844
+  },
+  {
+    "utterance_id": "dia40_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9993269443511963,
+    "attn_audio_visual": 22.26866340637207
+  },
+  {
+    "utterance_id": "dia40_utt6",
+    "emotion": "joy",
+    "confidence": 0.5481282472610474,
+    "attn_audio_visual": 29.509122848510742
+  },
+  {
+    "utterance_id": "dia40_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9660714268684387,
+    "attn_audio_visual": 22.490140914916992
+  },
+  {
+    "utterance_id": "dia40_utt8",
+    "emotion": "fear",
+    "confidence": 0.9992576241493225,
+    "attn_audio_visual": 22.724781036376953
+  },
+  {
+    "utterance_id": "dia40_utt9",
+    "emotion": "joy",
+    "confidence": 0.9917746186256409,
+    "attn_audio_visual": 21.284500122070312
+  },
+  {
+    "utterance_id": "dia41_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9560272097587585,
+    "attn_audio_visual": 21.567338943481445
+  },
+  {
+    "utterance_id": "dia41_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997867941856384,
+    "attn_audio_visual": 21.486454010009766
+  },
+  {
+    "utterance_id": "dia41_utt2",
+    "emotion": "anger",
+    "confidence": 0.9989423155784607,
+    "attn_audio_visual": 21.858287811279297
+  },
+  {
+    "utterance_id": "dia42_utt0",
+    "emotion": "joy",
+    "confidence": 0.9964011907577515,
+    "attn_audio_visual": 26.784168243408203
+  },
+  {
+    "utterance_id": "dia42_utt1",
+    "emotion": "sadness",
+    "confidence": 0.969170868396759,
+    "attn_audio_visual": 29.407283782958984
+  },
+  {
+    "utterance_id": "dia42_utt2",
+    "emotion": "sadness",
+    "confidence": 0.36708131432533264,
+    "attn_audio_visual": 24.57107162475586
+  },
+  {
+    "utterance_id": "dia42_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998929500579834,
+    "attn_audio_visual": 25.360742568969727
+  },
+  {
+    "utterance_id": "dia42_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9982956051826477,
+    "attn_audio_visual": 22.35450553894043
+  },
+  {
+    "utterance_id": "dia43_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9997093081474304,
+    "attn_audio_visual": 21.12955093383789
+  },
+  {
+    "utterance_id": "dia43_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998475313186646,
+    "attn_audio_visual": 21.22977638244629
+  },
+  {
+    "utterance_id": "dia44_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998185038566589,
+    "attn_audio_visual": 22.040042877197266
+  },
+  {
+    "utterance_id": "dia44_utt1",
+    "emotion": "neutral",
+    "confidence": 0.4789236783981323,
+    "attn_audio_visual": 21.640697479248047
+  },
+  {
+    "utterance_id": "dia44_utt10",
+    "emotion": "sadness",
+    "confidence": 0.5822944045066833,
+    "attn_audio_visual": 21.173995971679688
+  },
+  {
+    "utterance_id": "dia44_utt11",
+    "emotion": "anger",
+    "confidence": 0.6510207653045654,
+    "attn_audio_visual": 25.461641311645508
+  },
+  {
+    "utterance_id": "dia44_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9879080653190613,
+    "attn_audio_visual": 21.99910545349121
+  },
+  {
+    "utterance_id": "dia44_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9992579817771912,
+    "attn_audio_visual": 21.99906349182129
+  },
+  {
+    "utterance_id": "dia44_utt4",
+    "emotion": "joy",
+    "confidence": 0.7126279473304749,
+    "attn_audio_visual": 22.16615867614746
+  },
+  {
+    "utterance_id": "dia44_utt5",
+    "emotion": "joy",
+    "confidence": 0.9992328882217407,
+    "attn_audio_visual": 23.14944839477539
+  },
+  {
+    "utterance_id": "dia44_utt6",
+    "emotion": "surprise",
+    "confidence": 0.8978819251060486,
+    "attn_audio_visual": 22.38079071044922
+  },
+  {
+    "utterance_id": "dia44_utt7",
+    "emotion": "neutral",
+    "confidence": 0.6510859727859497,
+    "attn_audio_visual": 22.091999053955078
+  },
+  {
+    "utterance_id": "dia44_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9906095862388611,
+    "attn_audio_visual": 22.38494873046875
+  },
+  {
+    "utterance_id": "dia44_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9999240636825562,
+    "attn_audio_visual": 22.470373153686523
+  },
+  {
+    "utterance_id": "dia45_utt0",
+    "emotion": "neutral",
+    "confidence": 0.995445966720581,
+    "attn_audio_visual": 23.46585464477539
+  },
+  {
+    "utterance_id": "dia45_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9975917339324951,
+    "attn_audio_visual": 23.698427200317383
+  },
+  {
+    "utterance_id": "dia45_utt10",
+    "emotion": "surprise",
+    "confidence": 0.9177752733230591,
+    "attn_audio_visual": 22.6130313873291
+  },
+  {
+    "utterance_id": "dia45_utt11",
+    "emotion": "sadness",
+    "confidence": 0.9517794251441956,
+    "attn_audio_visual": 23.755001068115234
+  },
+  {
+    "utterance_id": "dia45_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998985528945923,
+    "attn_audio_visual": 28.691640853881836
+  },
+  {
+    "utterance_id": "dia45_utt3",
+    "emotion": "sadness",
+    "confidence": 0.963439404964447,
+    "attn_audio_visual": 28.5504207611084
+  },
+  {
+    "utterance_id": "dia45_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9993544220924377,
+    "attn_audio_visual": 20.809534072875977
+  },
+  {
+    "utterance_id": "dia45_utt5",
+    "emotion": "joy",
+    "confidence": 0.9821609258651733,
+    "attn_audio_visual": 19.224210739135742
+  },
+  {
+    "utterance_id": "dia45_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9998874664306641,
+    "attn_audio_visual": 19.112581253051758
+  },
+  {
+    "utterance_id": "dia45_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9982563853263855,
+    "attn_audio_visual": 23.691543579101562
+  },
+  {
+    "utterance_id": "dia45_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9982237219810486,
+    "attn_audio_visual": 23.768524169921875
+  },
+  {
+    "utterance_id": "dia45_utt9",
+    "emotion": "surprise",
+    "confidence": 0.7516294121742249,
+    "attn_audio_visual": 23.25763511657715
+  },
+  {
+    "utterance_id": "dia46_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9881812334060669,
+    "attn_audio_visual": 20.74725914001465
+  },
+  {
+    "utterance_id": "dia46_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9982289671897888,
+    "attn_audio_visual": 25.616840362548828
+  },
+  {
+    "utterance_id": "dia46_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9993280172348022,
+    "attn_audio_visual": 22.898059844970703
+  },
+  {
+    "utterance_id": "dia46_utt3",
+    "emotion": "neutral",
+    "confidence": 0.999546468257904,
+    "attn_audio_visual": 25.119394302368164
+  },
+  {
+    "utterance_id": "dia46_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9594328999519348,
+    "attn_audio_visual": 24.27660369873047
+  },
+  {
+    "utterance_id": "dia46_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9364937543869019,
+    "attn_audio_visual": 23.042211532592773
+  },
+  {
+    "utterance_id": "dia46_utt6",
+    "emotion": "joy",
+    "confidence": 0.4622918963432312,
+    "attn_audio_visual": 23.619352340698242
+  },
+  {
+    "utterance_id": "dia46_utt7",
+    "emotion": "fear",
+    "confidence": 0.9972731471061707,
+    "attn_audio_visual": 21.413768768310547
+  },
+  {
+    "utterance_id": "dia46_utt8",
+    "emotion": "joy",
+    "confidence": 0.9894499182701111,
+    "attn_audio_visual": 23.13621711730957
+  },
+  {
+    "utterance_id": "dia46_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9964882135391235,
+    "attn_audio_visual": 20.120506286621094
+  },
+  {
+    "utterance_id": "dia47_utt0",
+    "emotion": "neutral",
+    "confidence": 0.920692503452301,
+    "attn_audio_visual": 19.42146873474121
+  },
+  {
+    "utterance_id": "dia47_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998284578323364,
+    "attn_audio_visual": 21.69517707824707
+  },
+  {
+    "utterance_id": "dia47_utt10",
+    "emotion": "surprise",
+    "confidence": 0.979250431060791,
+    "attn_audio_visual": 24.532400131225586
+  },
+  {
+    "utterance_id": "dia47_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9933704137802124,
+    "attn_audio_visual": 20.07259750366211
+  },
+  {
+    "utterance_id": "dia47_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9994754195213318,
+    "attn_audio_visual": 23.76888656616211
+  },
+  {
+    "utterance_id": "dia47_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9999244213104248,
+    "attn_audio_visual": 24.79131507873535
+  },
+  {
+    "utterance_id": "dia47_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9945499300956726,
+    "attn_audio_visual": 25.23478889465332
+  },
+  {
+    "utterance_id": "dia47_utt6",
+    "emotion": "joy",
+    "confidence": 0.7832918763160706,
+    "attn_audio_visual": 23.700075149536133
+  },
+  {
+    "utterance_id": "dia47_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9998407363891602,
+    "attn_audio_visual": 22.911842346191406
+  },
+  {
+    "utterance_id": "dia47_utt8",
+    "emotion": "joy",
+    "confidence": 0.9006360769271851,
+    "attn_audio_visual": 23.86431121826172
+  },
+  {
+    "utterance_id": "dia47_utt9",
+    "emotion": "neutral",
+    "confidence": 0.43771836161613464,
+    "attn_audio_visual": 21.833166122436523
+  },
+  {
+    "utterance_id": "dia48_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9420288801193237,
+    "attn_audio_visual": 22.23343276977539
+  },
+  {
+    "utterance_id": "dia48_utt1",
+    "emotion": "sadness",
+    "confidence": 0.7980118989944458,
+    "attn_audio_visual": 27.04322052001953
+  },
+  {
+    "utterance_id": "dia48_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9888402819633484,
+    "attn_audio_visual": 24.945547103881836
+  },
+  {
+    "utterance_id": "dia48_utt3",
+    "emotion": "anger",
+    "confidence": 0.8426957130432129,
+    "attn_audio_visual": 25.078996658325195
+  },
+  {
+    "utterance_id": "dia48_utt4",
+    "emotion": "neutral",
+    "confidence": 0.8504593372344971,
+    "attn_audio_visual": 24.54552459716797
+  },
+  {
+    "utterance_id": "dia48_utt5",
+    "emotion": "fear",
+    "confidence": 0.99436354637146,
+    "attn_audio_visual": 27.785112380981445
+  },
+  {
+    "utterance_id": "dia48_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9936773180961609,
+    "attn_audio_visual": 25.923738479614258
+  },
+  {
+    "utterance_id": "dia48_utt7",
+    "emotion": "sadness",
+    "confidence": 0.4302803874015808,
+    "attn_audio_visual": 23.506107330322266
+  },
+  {
+    "utterance_id": "dia49_utt0",
+    "emotion": "anger",
+    "confidence": 0.9986862540245056,
+    "attn_audio_visual": 22.791452407836914
+  },
+  {
+    "utterance_id": "dia49_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9760223031044006,
+    "attn_audio_visual": 24.811168670654297
+  },
+  {
+    "utterance_id": "dia49_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9997327923774719,
+    "attn_audio_visual": 23.38915252685547
+  },
+  {
+    "utterance_id": "dia49_utt11",
+    "emotion": "sadness",
+    "confidence": 0.999822199344635,
+    "attn_audio_visual": 23.687381744384766
+  },
+  {
+    "utterance_id": "dia49_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9990978240966797,
+    "attn_audio_visual": 26.221529006958008
+  },
+  {
+    "utterance_id": "dia49_utt13",
+    "emotion": "sadness",
+    "confidence": 0.9990623593330383,
+    "attn_audio_visual": 22.549646377563477
+  },
+  {
+    "utterance_id": "dia49_utt14",
+    "emotion": "sadness",
+    "confidence": 0.9996836185455322,
+    "attn_audio_visual": 23.387901306152344
+  },
+  {
+    "utterance_id": "dia49_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9980105757713318,
+    "attn_audio_visual": 20.728567123413086
+  },
+  {
+    "utterance_id": "dia49_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9921339750289917,
+    "attn_audio_visual": 21.855052947998047
+  },
+  {
+    "utterance_id": "dia49_utt6",
+    "emotion": "anger",
+    "confidence": 0.8175269365310669,
+    "attn_audio_visual": 24.731399536132812
+  },
+  {
+    "utterance_id": "dia49_utt7",
+    "emotion": "sadness",
+    "confidence": 0.5023767352104187,
+    "attn_audio_visual": 22.864532470703125
+  },
+  {
+    "utterance_id": "dia49_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9998113512992859,
+    "attn_audio_visual": 25.41762924194336
+  },
+  {
+    "utterance_id": "dia49_utt9",
+    "emotion": "surprise",
+    "confidence": 0.8927516937255859,
+    "attn_audio_visual": 21.906696319580078
+  },
+  {
+    "utterance_id": "dia4_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9596434235572815,
+    "attn_audio_visual": 34.64128875732422
+  },
+  {
+    "utterance_id": "dia4_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9895190596580505,
+    "attn_audio_visual": 33.053497314453125
+  },
+  {
+    "utterance_id": "dia4_utt10",
+    "emotion": "anger",
+    "confidence": 0.9913957715034485,
+    "attn_audio_visual": 27.536609649658203
+  },
+  {
+    "utterance_id": "dia4_utt11",
+    "emotion": "joy",
+    "confidence": 0.7542291283607483,
+    "attn_audio_visual": 32.61412048339844
+  },
+  {
+    "utterance_id": "dia4_utt12",
+    "emotion": "surprise",
+    "confidence": 0.9067590236663818,
+    "attn_audio_visual": 29.675439834594727
+  },
+  {
+    "utterance_id": "dia4_utt13",
+    "emotion": "anger",
+    "confidence": 0.8899378776550293,
+    "attn_audio_visual": 31.39844512939453
+  },
+  {
+    "utterance_id": "dia4_utt14",
+    "emotion": "neutral",
+    "confidence": 0.8763797283172607,
+    "attn_audio_visual": 25.860748291015625
+  },
+  {
+    "utterance_id": "dia4_utt2",
+    "emotion": "neutral",
+    "confidence": 0.928020179271698,
+    "attn_audio_visual": 25.743356704711914
+  },
+  {
+    "utterance_id": "dia4_utt3",
+    "emotion": "anger",
+    "confidence": 0.5762980580329895,
+    "attn_audio_visual": 24.937101364135742
+  },
+  {
+    "utterance_id": "dia4_utt4",
+    "emotion": "neutral",
+    "confidence": 0.5198000073432922,
+    "attn_audio_visual": 26.3222599029541
+  },
+  {
+    "utterance_id": "dia4_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9220678210258484,
+    "attn_audio_visual": 28.864261627197266
+  },
+  {
+    "utterance_id": "dia4_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9058732986450195,
+    "attn_audio_visual": 29.298158645629883
+  },
+  {
+    "utterance_id": "dia4_utt7",
+    "emotion": "joy",
+    "confidence": 0.9058898687362671,
+    "attn_audio_visual": 33.26205062866211
+  },
+  {
+    "utterance_id": "dia4_utt8",
+    "emotion": "neutral",
+    "confidence": 0.8279647827148438,
+    "attn_audio_visual": 27.200298309326172
+  },
+  {
+    "utterance_id": "dia4_utt9",
+    "emotion": "neutral",
+    "confidence": 0.8589529991149902,
+    "attn_audio_visual": 28.168235778808594
+  },
+  {
+    "utterance_id": "dia50_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9989687204360962,
+    "attn_audio_visual": 25.088211059570312
+  },
+  {
+    "utterance_id": "dia50_utt1",
+    "emotion": "sadness",
+    "confidence": 0.994300365447998,
+    "attn_audio_visual": 29.04989242553711
+  },
+  {
+    "utterance_id": "dia50_utt2",
+    "emotion": "sadness",
+    "confidence": 0.8905974626541138,
+    "attn_audio_visual": 26.049758911132812
+  },
+  {
+    "utterance_id": "dia50_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9981879591941833,
+    "attn_audio_visual": 27.512319564819336
+  },
+  {
+    "utterance_id": "dia51_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9936333894729614,
+    "attn_audio_visual": 21.431673049926758
+  },
+  {
+    "utterance_id": "dia51_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9913365840911865,
+    "attn_audio_visual": 24.103403091430664
+  },
+  {
+    "utterance_id": "dia51_utt2",
+    "emotion": "joy",
+    "confidence": 0.9025745987892151,
+    "attn_audio_visual": 22.147769927978516
+  },
+  {
+    "utterance_id": "dia51_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9992363452911377,
+    "attn_audio_visual": 20.177513122558594
+  },
+  {
+    "utterance_id": "dia51_utt4",
+    "emotion": "sadness",
+    "confidence": 0.7873093485832214,
+    "attn_audio_visual": 21.695297241210938
+  },
+  {
+    "utterance_id": "dia51_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9970098733901978,
+    "attn_audio_visual": 28.15241050720215
+  },
+  {
+    "utterance_id": "dia51_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9959465861320496,
+    "attn_audio_visual": 26.84014892578125
+  },
+  {
+    "utterance_id": "dia52_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9993813037872314,
+    "attn_audio_visual": 20.255508422851562
+  },
+  {
+    "utterance_id": "dia52_utt1",
+    "emotion": "joy",
+    "confidence": 0.997605562210083,
+    "attn_audio_visual": 29.568538665771484
+  },
+  {
+    "utterance_id": "dia52_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9952446818351746,
+    "attn_audio_visual": 24.932395935058594
+  },
+  {
+    "utterance_id": "dia53_utt0",
+    "emotion": "joy",
+    "confidence": 0.6288228631019592,
+    "attn_audio_visual": 19.02913475036621
+  },
+  {
+    "utterance_id": "dia53_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997557997703552,
+    "attn_audio_visual": 20.51169776916504
+  },
+  {
+    "utterance_id": "dia53_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9995003938674927,
+    "attn_audio_visual": 18.985708236694336
+  },
+  {
+    "utterance_id": "dia53_utt3",
+    "emotion": "joy",
+    "confidence": 0.9283658266067505,
+    "attn_audio_visual": 23.817886352539062
+  },
+  {
+    "utterance_id": "dia53_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9996707439422607,
+    "attn_audio_visual": 19.47707176208496
+  },
+  {
+    "utterance_id": "dia53_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9992610812187195,
+    "attn_audio_visual": 25.382667541503906
+  },
+  {
+    "utterance_id": "dia53_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9993426203727722,
+    "attn_audio_visual": 21.353689193725586
+  },
+  {
+    "utterance_id": "dia53_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9939160943031311,
+    "attn_audio_visual": 22.918437957763672
+  },
+  {
+    "utterance_id": "dia53_utt8",
+    "emotion": "neutral",
+    "confidence": 0.8847634792327881,
+    "attn_audio_visual": 18.563207626342773
+  },
+  {
+    "utterance_id": "dia54_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9509928226470947,
+    "attn_audio_visual": 28.565410614013672
+  },
+  {
+    "utterance_id": "dia54_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9950354099273682,
+    "attn_audio_visual": 29.800495147705078
+  },
+  {
+    "utterance_id": "dia54_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9986999034881592,
+    "attn_audio_visual": 22.272579193115234
+  },
+  {
+    "utterance_id": "dia54_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9693009853363037,
+    "attn_audio_visual": 25.20653533935547
+  },
+  {
+    "utterance_id": "dia54_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9995404481887817,
+    "attn_audio_visual": 26.061311721801758
+  },
+  {
+    "utterance_id": "dia54_utt2",
+    "emotion": "anger",
+    "confidence": 0.45427659153938293,
+    "attn_audio_visual": 26.38008689880371
+  },
+  {
+    "utterance_id": "dia54_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9903126955032349,
+    "attn_audio_visual": 24.807897567749023
+  },
+  {
+    "utterance_id": "dia54_utt4",
+    "emotion": "neutral",
+    "confidence": 0.8290413618087769,
+    "attn_audio_visual": 25.23917007446289
+  },
+  {
+    "utterance_id": "dia54_utt5",
+    "emotion": "joy",
+    "confidence": 0.9554853439331055,
+    "attn_audio_visual": 24.50040054321289
+  },
+  {
+    "utterance_id": "dia54_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9971733093261719,
+    "attn_audio_visual": 28.64134407043457
+  },
+  {
+    "utterance_id": "dia54_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9965015649795532,
+    "attn_audio_visual": 20.915664672851562
+  },
+  {
+    "utterance_id": "dia54_utt8",
+    "emotion": "fear",
+    "confidence": 0.9081469774246216,
+    "attn_audio_visual": 27.397109985351562
+  },
+  {
+    "utterance_id": "dia54_utt9",
+    "emotion": "surprise",
+    "confidence": 0.9864190220832825,
+    "attn_audio_visual": 20.625028610229492
+  },
+  {
+    "utterance_id": "dia55_utt0",
+    "emotion": "anger",
+    "confidence": 0.9997496008872986,
+    "attn_audio_visual": 22.241809844970703
+  },
+  {
+    "utterance_id": "dia56_utt0",
+    "emotion": "joy",
+    "confidence": 0.994279146194458,
+    "attn_audio_visual": 21.310344696044922
+  },
+  {
+    "utterance_id": "dia56_utt1",
+    "emotion": "neutral",
+    "confidence": 0.999371349811554,
+    "attn_audio_visual": 22.257801055908203
+  },
+  {
+    "utterance_id": "dia56_utt10",
+    "emotion": "anger",
+    "confidence": 0.6708117723464966,
+    "attn_audio_visual": 20.132177352905273
+  },
+  {
+    "utterance_id": "dia56_utt11",
+    "emotion": "neutral",
+    "confidence": 0.6221960783004761,
+    "attn_audio_visual": 22.087112426757812
+  },
+  {
+    "utterance_id": "dia56_utt12",
+    "emotion": "anger",
+    "confidence": 0.9027220606803894,
+    "attn_audio_visual": 23.24913787841797
+  },
+  {
+    "utterance_id": "dia56_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9996764659881592,
+    "attn_audio_visual": 27.070558547973633
+  },
+  {
+    "utterance_id": "dia56_utt14",
+    "emotion": "neutral",
+    "confidence": 0.9998144507408142,
+    "attn_audio_visual": 30.5731143951416
+  },
+  {
+    "utterance_id": "dia56_utt15",
+    "emotion": "neutral",
+    "confidence": 0.99764484167099,
+    "attn_audio_visual": 28.644344329833984
+  },
+  {
+    "utterance_id": "dia56_utt16",
+    "emotion": "joy",
+    "confidence": 0.9989018440246582,
+    "attn_audio_visual": 25.07631492614746
+  },
+  {
+    "utterance_id": "dia56_utt2",
+    "emotion": "anger",
+    "confidence": 0.6698390245437622,
+    "attn_audio_visual": 24.530826568603516
+  },
+  {
+    "utterance_id": "dia56_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9685996770858765,
+    "attn_audio_visual": 20.547603607177734
+  },
+  {
+    "utterance_id": "dia56_utt4",
+    "emotion": "anger",
+    "confidence": 0.9991005659103394,
+    "attn_audio_visual": 21.176897048950195
+  },
+  {
+    "utterance_id": "dia56_utt5",
+    "emotion": "joy",
+    "confidence": 0.9980986714363098,
+    "attn_audio_visual": 21.37322425842285
+  },
+  {
+    "utterance_id": "dia56_utt6",
+    "emotion": "joy",
+    "confidence": 0.6292043924331665,
+    "attn_audio_visual": 22.756736755371094
+  },
+  {
+    "utterance_id": "dia56_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9674422740936279,
+    "attn_audio_visual": 24.679950714111328
+  },
+  {
+    "utterance_id": "dia56_utt8",
+    "emotion": "neutral",
+    "confidence": 0.7476967573165894,
+    "attn_audio_visual": 22.34848403930664
+  },
+  {
+    "utterance_id": "dia56_utt9",
+    "emotion": "anger",
+    "confidence": 0.9988442659378052,
+    "attn_audio_visual": 21.31075668334961
+  },
+  {
+    "utterance_id": "dia57_utt0",
+    "emotion": "anger",
+    "confidence": 0.7557145953178406,
+    "attn_audio_visual": 26.81298828125
+  },
+  {
+    "utterance_id": "dia57_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998999834060669,
+    "attn_audio_visual": 29.755313873291016
+  },
+  {
+    "utterance_id": "dia57_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9998258948326111,
+    "attn_audio_visual": 29.99739646911621
+  },
+  {
+    "utterance_id": "dia57_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9998732805252075,
+    "attn_audio_visual": 29.253873825073242
+  },
+  {
+    "utterance_id": "dia57_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9854335784912109,
+    "attn_audio_visual": 27.133563995361328
+  },
+  {
+    "utterance_id": "dia57_utt2",
+    "emotion": "neutral",
+    "confidence": 0.5435653328895569,
+    "attn_audio_visual": 29.27349853515625
+  },
+  {
+    "utterance_id": "dia57_utt3",
+    "emotion": "joy",
+    "confidence": 0.9305207133293152,
+    "attn_audio_visual": 29.403024673461914
+  },
+  {
+    "utterance_id": "dia57_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9756828546524048,
+    "attn_audio_visual": 29.879180908203125
+  },
+  {
+    "utterance_id": "dia57_utt5",
+    "emotion": "joy",
+    "confidence": 0.9985277652740479,
+    "attn_audio_visual": 29.054460525512695
+  },
+  {
+    "utterance_id": "dia57_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9918183088302612,
+    "attn_audio_visual": 27.546802520751953
+  },
+  {
+    "utterance_id": "dia57_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9386560916900635,
+    "attn_audio_visual": 27.187305450439453
+  },
+  {
+    "utterance_id": "dia57_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9999067783355713,
+    "attn_audio_visual": 26.290767669677734
+  },
+  {
+    "utterance_id": "dia57_utt9",
+    "emotion": "sadness",
+    "confidence": 0.9753392338752747,
+    "attn_audio_visual": 25.099620819091797
+  },
+  {
+    "utterance_id": "dia58_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9848060011863708,
+    "attn_audio_visual": 25.95608901977539
+  },
+  {
+    "utterance_id": "dia58_utt1",
+    "emotion": "disgust",
+    "confidence": 0.6977714896202087,
+    "attn_audio_visual": 22.315298080444336
+  },
+  {
+    "utterance_id": "dia58_utt10",
+    "emotion": "anger",
+    "confidence": 0.6407597661018372,
+    "attn_audio_visual": 25.192764282226562
+  },
+  {
+    "utterance_id": "dia58_utt11",
+    "emotion": "anger",
+    "confidence": 0.869867742061615,
+    "attn_audio_visual": 23.31239891052246
+  },
+  {
+    "utterance_id": "dia58_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9995062351226807,
+    "attn_audio_visual": 22.550899505615234
+  },
+  {
+    "utterance_id": "dia58_utt3",
+    "emotion": "fear",
+    "confidence": 0.9984057545661926,
+    "attn_audio_visual": 22.4171142578125
+  },
+  {
+    "utterance_id": "dia58_utt4",
+    "emotion": "joy",
+    "confidence": 0.9996670484542847,
+    "attn_audio_visual": 26.24962615966797
+  },
+  {
+    "utterance_id": "dia58_utt5",
+    "emotion": "joy",
+    "confidence": 0.7017478942871094,
+    "attn_audio_visual": 23.7288818359375
+  },
+  {
+    "utterance_id": "dia58_utt6",
+    "emotion": "neutral",
+    "confidence": 0.913088321685791,
+    "attn_audio_visual": 23.283302307128906
+  },
+  {
+    "utterance_id": "dia58_utt7",
+    "emotion": "neutral",
+    "confidence": 0.8783937692642212,
+    "attn_audio_visual": 23.68039894104004
+  },
+  {
+    "utterance_id": "dia58_utt8",
+    "emotion": "fear",
+    "confidence": 0.9166924953460693,
+    "attn_audio_visual": 24.59632682800293
+  },
+  {
+    "utterance_id": "dia58_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9775968194007874,
+    "attn_audio_visual": 25.328479766845703
+  },
+  {
+    "utterance_id": "dia59_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998728036880493,
+    "attn_audio_visual": 21.846288681030273
+  },
+  {
+    "utterance_id": "dia59_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9979608058929443,
+    "attn_audio_visual": 24.554256439208984
+  },
+  {
+    "utterance_id": "dia59_utt2",
+    "emotion": "neutral",
+    "confidence": 0.6688815355300903,
+    "attn_audio_visual": 24.22330093383789
+  },
+  {
+    "utterance_id": "dia59_utt3",
+    "emotion": "neutral",
+    "confidence": 0.7776368856430054,
+    "attn_audio_visual": 22.378267288208008
+  },
+  {
+    "utterance_id": "dia59_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9998490810394287,
+    "attn_audio_visual": 23.94791030883789
+  },
+  {
+    "utterance_id": "dia5_utt0",
+    "emotion": "sadness",
+    "confidence": 0.7539864778518677,
+    "attn_audio_visual": 25.452234268188477
+  },
+  {
+    "utterance_id": "dia5_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9998394250869751,
+    "attn_audio_visual": 23.523820877075195
+  },
+  {
+    "utterance_id": "dia5_utt10",
+    "emotion": "disgust",
+    "confidence": 0.8479238152503967,
+    "attn_audio_visual": 18.850343704223633
+  },
+  {
+    "utterance_id": "dia5_utt11",
+    "emotion": "neutral",
+    "confidence": 0.999830961227417,
+    "attn_audio_visual": 20.97150421142578
+  },
+  {
+    "utterance_id": "dia5_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9993271827697754,
+    "attn_audio_visual": 20.476133346557617
+  },
+  {
+    "utterance_id": "dia5_utt2",
+    "emotion": "anger",
+    "confidence": 0.9915974736213684,
+    "attn_audio_visual": 23.723909378051758
+  },
+  {
+    "utterance_id": "dia5_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9907032251358032,
+    "attn_audio_visual": 23.55832862854004
+  },
+  {
+    "utterance_id": "dia5_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9803447127342224,
+    "attn_audio_visual": 20.008920669555664
+  },
+  {
+    "utterance_id": "dia5_utt5",
+    "emotion": "anger",
+    "confidence": 0.7003099918365479,
+    "attn_audio_visual": 20.46718406677246
+  },
+  {
+    "utterance_id": "dia5_utt6",
+    "emotion": "anger",
+    "confidence": 0.9992431402206421,
+    "attn_audio_visual": 21.386383056640625
+  },
+  {
+    "utterance_id": "dia5_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9994009733200073,
+    "attn_audio_visual": 24.6641845703125
+  },
+  {
+    "utterance_id": "dia5_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9925810098648071,
+    "attn_audio_visual": 18.682676315307617
+  },
+  {
+    "utterance_id": "dia5_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9987926483154297,
+    "attn_audio_visual": 21.7550048828125
+  },
+  {
+    "utterance_id": "dia60_utt0",
+    "emotion": "surprise",
+    "confidence": 0.9997677206993103,
+    "attn_audio_visual": 20.635637283325195
+  },
+  {
+    "utterance_id": "dia60_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997732043266296,
+    "attn_audio_visual": 22.808443069458008
+  },
+  {
+    "utterance_id": "dia60_utt2",
+    "emotion": "joy",
+    "confidence": 0.8854342103004456,
+    "attn_audio_visual": 23.82363510131836
+  },
+  {
+    "utterance_id": "dia60_utt3",
+    "emotion": "joy",
+    "confidence": 0.9908555746078491,
+    "attn_audio_visual": 19.70226287841797
+  },
+  {
+    "utterance_id": "dia60_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9997561573982239,
+    "attn_audio_visual": 17.605016708374023
+  },
+  {
+    "utterance_id": "dia60_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9998718500137329,
+    "attn_audio_visual": 21.166091918945312
+  },
+  {
+    "utterance_id": "dia60_utt6",
+    "emotion": "joy",
+    "confidence": 0.9998030066490173,
+    "attn_audio_visual": 20.989559173583984
+  },
+  {
+    "utterance_id": "dia61_utt0",
+    "emotion": "joy",
+    "confidence": 0.999242901802063,
+    "attn_audio_visual": 26.09368133544922
+  },
+  {
+    "utterance_id": "dia61_utt1",
+    "emotion": "joy",
+    "confidence": 0.999485969543457,
+    "attn_audio_visual": 26.797414779663086
+  },
+  {
+    "utterance_id": "dia61_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9954144954681396,
+    "attn_audio_visual": 27.109771728515625
+  },
+  {
+    "utterance_id": "dia61_utt3",
+    "emotion": "neutral",
+    "confidence": 0.8586885333061218,
+    "attn_audio_visual": 27.422901153564453
+  },
+  {
+    "utterance_id": "dia61_utt4",
+    "emotion": "neutral",
+    "confidence": 0.990638017654419,
+    "attn_audio_visual": 26.82042121887207
+  },
+  {
+    "utterance_id": "dia61_utt5",
+    "emotion": "joy",
+    "confidence": 0.9995284080505371,
+    "attn_audio_visual": 25.870445251464844
+  },
+  {
+    "utterance_id": "dia62_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9945096373558044,
+    "attn_audio_visual": 26.30877685546875
+  },
+  {
+    "utterance_id": "dia62_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9959591031074524,
+    "attn_audio_visual": 24.3975772857666
+  },
+  {
+    "utterance_id": "dia62_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9998544454574585,
+    "attn_audio_visual": 24.122913360595703
+  },
+  {
+    "utterance_id": "dia62_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9991890788078308,
+    "attn_audio_visual": 22.859928131103516
+  },
+  {
+    "utterance_id": "dia62_utt4",
+    "emotion": "anger",
+    "confidence": 0.6820394992828369,
+    "attn_audio_visual": 25.571516036987305
+  },
+  {
+    "utterance_id": "dia62_utt5",
+    "emotion": "joy",
+    "confidence": 0.9585465788841248,
+    "attn_audio_visual": 27.338754653930664
+  },
+  {
+    "utterance_id": "dia63_utt0",
+    "emotion": "joy",
+    "confidence": 0.871681272983551,
+    "attn_audio_visual": 24.574687957763672
+  },
+  {
+    "utterance_id": "dia63_utt1",
+    "emotion": "joy",
+    "confidence": 0.5992397665977478,
+    "attn_audio_visual": 22.290386199951172
+  },
+  {
+    "utterance_id": "dia63_utt10",
+    "emotion": "joy",
+    "confidence": 0.9675551056861877,
+    "attn_audio_visual": 22.559391021728516
+  },
+  {
+    "utterance_id": "dia63_utt11",
+    "emotion": "joy",
+    "confidence": 0.9990115165710449,
+    "attn_audio_visual": 22.960359573364258
+  },
+  {
+    "utterance_id": "dia63_utt12",
+    "emotion": "surprise",
+    "confidence": 0.7141846418380737,
+    "attn_audio_visual": 22.986528396606445
+  },
+  {
+    "utterance_id": "dia63_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9993426203727722,
+    "attn_audio_visual": 19.35856056213379
+  },
+  {
+    "utterance_id": "dia63_utt14",
+    "emotion": "fear",
+    "confidence": 0.3305909037590027,
+    "attn_audio_visual": 18.903963088989258
+  },
+  {
+    "utterance_id": "dia63_utt15",
+    "emotion": "anger",
+    "confidence": 0.9995840191841125,
+    "attn_audio_visual": 22.1848087310791
+  },
+  {
+    "utterance_id": "dia63_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9949135780334473,
+    "attn_audio_visual": 20.76104164123535
+  },
+  {
+    "utterance_id": "dia63_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9993688464164734,
+    "attn_audio_visual": 25.5316162109375
+  },
+  {
+    "utterance_id": "dia63_utt18",
+    "emotion": "surprise",
+    "confidence": 0.8021368980407715,
+    "attn_audio_visual": 21.16571807861328
+  },
+  {
+    "utterance_id": "dia63_utt19",
+    "emotion": "neutral",
+    "confidence": 0.9985552430152893,
+    "attn_audio_visual": 22.530908584594727
+  },
+  {
+    "utterance_id": "dia63_utt2",
+    "emotion": "surprise",
+    "confidence": 0.5241720080375671,
+    "attn_audio_visual": 20.963821411132812
+  },
+  {
+    "utterance_id": "dia63_utt20",
+    "emotion": "neutral",
+    "confidence": 0.9995133876800537,
+    "attn_audio_visual": 23.911283493041992
+  },
+  {
+    "utterance_id": "dia63_utt3",
+    "emotion": "joy",
+    "confidence": 0.9997857213020325,
+    "attn_audio_visual": 22.90375518798828
+  },
+  {
+    "utterance_id": "dia63_utt4",
+    "emotion": "joy",
+    "confidence": 0.9996461868286133,
+    "attn_audio_visual": 21.099674224853516
+  },
+  {
+    "utterance_id": "dia63_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9986380934715271,
+    "attn_audio_visual": 23.54309844970703
+  },
+  {
+    "utterance_id": "dia63_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9991081357002258,
+    "attn_audio_visual": 20.164081573486328
+  },
+  {
+    "utterance_id": "dia63_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9999091625213623,
+    "attn_audio_visual": 21.024354934692383
+  },
+  {
+    "utterance_id": "dia63_utt8",
+    "emotion": "joy",
+    "confidence": 0.8539906740188599,
+    "attn_audio_visual": 20.66329574584961
+  },
+  {
+    "utterance_id": "dia63_utt9",
+    "emotion": "surprise",
+    "confidence": 0.8781466484069824,
+    "attn_audio_visual": 21.154409408569336
+  },
+  {
+    "utterance_id": "dia64_utt0",
+    "emotion": "joy",
+    "confidence": 0.978879988193512,
+    "attn_audio_visual": 23.392011642456055
+  },
+  {
+    "utterance_id": "dia64_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9760220646858215,
+    "attn_audio_visual": 20.929540634155273
+  },
+  {
+    "utterance_id": "dia64_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9993434548377991,
+    "attn_audio_visual": 21.386201858520508
+  },
+  {
+    "utterance_id": "dia64_utt3",
+    "emotion": "neutral",
+    "confidence": 0.99652099609375,
+    "attn_audio_visual": 22.17765235900879
+  },
+  {
+    "utterance_id": "dia64_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9935086965560913,
+    "attn_audio_visual": 22.61473274230957
+  },
+  {
+    "utterance_id": "dia65_utt0",
+    "emotion": "neutral",
+    "confidence": 0.6354680061340332,
+    "attn_audio_visual": 22.414894104003906
+  },
+  {
+    "utterance_id": "dia65_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998213648796082,
+    "attn_audio_visual": 22.15044403076172
+  },
+  {
+    "utterance_id": "dia65_utt10",
+    "emotion": "surprise",
+    "confidence": 0.9745945334434509,
+    "attn_audio_visual": 21.572999954223633
+  },
+  {
+    "utterance_id": "dia65_utt2",
+    "emotion": "joy",
+    "confidence": 0.9977909326553345,
+    "attn_audio_visual": 21.0455265045166
+  },
+  {
+    "utterance_id": "dia65_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9967641830444336,
+    "attn_audio_visual": 22.355426788330078
+  },
+  {
+    "utterance_id": "dia65_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9998856782913208,
+    "attn_audio_visual": 21.82493019104004
+  },
+  {
+    "utterance_id": "dia65_utt5",
+    "emotion": "fear",
+    "confidence": 0.9070536494255066,
+    "attn_audio_visual": 21.33060073852539
+  },
+  {
+    "utterance_id": "dia65_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9994587302207947,
+    "attn_audio_visual": 23.123048782348633
+  },
+  {
+    "utterance_id": "dia65_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9756191968917847,
+    "attn_audio_visual": 21.132810592651367
+  },
+  {
+    "utterance_id": "dia65_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9998874664306641,
+    "attn_audio_visual": 22.892606735229492
+  },
+  {
+    "utterance_id": "dia65_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9995249509811401,
+    "attn_audio_visual": 23.09102439880371
+  },
+  {
+    "utterance_id": "dia66_utt0",
+    "emotion": "anger",
+    "confidence": 0.9425544142723083,
+    "attn_audio_visual": 24.429622650146484
+  },
+  {
+    "utterance_id": "dia66_utt1",
+    "emotion": "anger",
+    "confidence": 0.9994757771492004,
+    "attn_audio_visual": 23.456287384033203
+  },
+  {
+    "utterance_id": "dia66_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9929189085960388,
+    "attn_audio_visual": 21.43366241455078
+  },
+  {
+    "utterance_id": "dia66_utt2",
+    "emotion": "anger",
+    "confidence": 0.7750079035758972,
+    "attn_audio_visual": 22.309215545654297
+  },
+  {
+    "utterance_id": "dia66_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9966243505477905,
+    "attn_audio_visual": 22.5542049407959
+  },
+  {
+    "utterance_id": "dia66_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9994413256645203,
+    "attn_audio_visual": 23.686763763427734
+  },
+  {
+    "utterance_id": "dia66_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9931423664093018,
+    "attn_audio_visual": 24.546249389648438
+  },
+  {
+    "utterance_id": "dia66_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9985653758049011,
+    "attn_audio_visual": 24.542667388916016
+  },
+  {
+    "utterance_id": "dia66_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9956822395324707,
+    "attn_audio_visual": 22.069765090942383
+  },
+  {
+    "utterance_id": "dia66_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9994949102401733,
+    "attn_audio_visual": 23.08932876586914
+  },
+  {
+    "utterance_id": "dia67_utt0",
+    "emotion": "joy",
+    "confidence": 0.9994515776634216,
+    "attn_audio_visual": 25.44843101501465
+  },
+  {
+    "utterance_id": "dia67_utt1",
+    "emotion": "joy",
+    "confidence": 0.9997661709785461,
+    "attn_audio_visual": 25.508878707885742
+  },
+  {
+    "utterance_id": "dia67_utt10",
+    "emotion": "neutral",
+    "confidence": 0.8022304177284241,
+    "attn_audio_visual": 26.165477752685547
+  },
+  {
+    "utterance_id": "dia67_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998427629470825,
+    "attn_audio_visual": 26.110898971557617
+  },
+  {
+    "utterance_id": "dia67_utt3",
+    "emotion": "joy",
+    "confidence": 0.7827427387237549,
+    "attn_audio_visual": 26.011585235595703
+  },
+  {
+    "utterance_id": "dia67_utt4",
+    "emotion": "joy",
+    "confidence": 0.9996107220649719,
+    "attn_audio_visual": 25.697166442871094
+  },
+  {
+    "utterance_id": "dia67_utt5",
+    "emotion": "anger",
+    "confidence": 0.9955742359161377,
+    "attn_audio_visual": 20.316221237182617
+  },
+  {
+    "utterance_id": "dia67_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9996352195739746,
+    "attn_audio_visual": 22.060020446777344
+  },
+  {
+    "utterance_id": "dia67_utt7",
+    "emotion": "joy",
+    "confidence": 0.6493053436279297,
+    "attn_audio_visual": 19.77882194519043
+  },
+  {
+    "utterance_id": "dia67_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9997615218162537,
+    "attn_audio_visual": 20.754924774169922
+  },
+  {
+    "utterance_id": "dia67_utt9",
+    "emotion": "neutral",
+    "confidence": 0.5680712461471558,
+    "attn_audio_visual": 22.018461227416992
+  },
+  {
+    "utterance_id": "dia68_utt0",
+    "emotion": "joy",
+    "confidence": 0.941425085067749,
+    "attn_audio_visual": 25.778118133544922
+  },
+  {
+    "utterance_id": "dia68_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9964764714241028,
+    "attn_audio_visual": 25.255733489990234
+  },
+  {
+    "utterance_id": "dia68_utt10",
+    "emotion": "joy",
+    "confidence": 0.9998118281364441,
+    "attn_audio_visual": 22.947763442993164
+  },
+  {
+    "utterance_id": "dia68_utt11",
+    "emotion": "neutral",
+    "confidence": 0.8810789585113525,
+    "attn_audio_visual": 24.497411727905273
+  },
+  {
+    "utterance_id": "dia68_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9999048709869385,
+    "attn_audio_visual": 22.392221450805664
+  },
+  {
+    "utterance_id": "dia68_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998026490211487,
+    "attn_audio_visual": 24.432165145874023
+  },
+  {
+    "utterance_id": "dia68_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9988318085670471,
+    "attn_audio_visual": 23.404796600341797
+  },
+  {
+    "utterance_id": "dia68_utt5",
+    "emotion": "joy",
+    "confidence": 0.9964136481285095,
+    "attn_audio_visual": 21.773466110229492
+  },
+  {
+    "utterance_id": "dia68_utt6",
+    "emotion": "sadness",
+    "confidence": 0.7878548502922058,
+    "attn_audio_visual": 21.060606002807617
+  },
+  {
+    "utterance_id": "dia68_utt7",
+    "emotion": "sadness",
+    "confidence": 0.4040515422821045,
+    "attn_audio_visual": 21.71701431274414
+  },
+  {
+    "utterance_id": "dia68_utt8",
+    "emotion": "joy",
+    "confidence": 0.985866367816925,
+    "attn_audio_visual": 22.50555992126465
+  },
+  {
+    "utterance_id": "dia68_utt9",
+    "emotion": "joy",
+    "confidence": 0.9998165965080261,
+    "attn_audio_visual": 21.751235961914062
+  },
+  {
+    "utterance_id": "dia69_utt0",
+    "emotion": "surprise",
+    "confidence": 0.730083167552948,
+    "attn_audio_visual": 20.82921028137207
+  },
+  {
+    "utterance_id": "dia69_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997484087944031,
+    "attn_audio_visual": 22.380910873413086
+  },
+  {
+    "utterance_id": "dia69_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9928761720657349,
+    "attn_audio_visual": 20.068063735961914
+  },
+  {
+    "utterance_id": "dia69_utt11",
+    "emotion": "joy",
+    "confidence": 0.9100416302680969,
+    "attn_audio_visual": 20.789724349975586
+  },
+  {
+    "utterance_id": "dia69_utt12",
+    "emotion": "surprise",
+    "confidence": 0.5276811122894287,
+    "attn_audio_visual": 21.171072006225586
+  },
+  {
+    "utterance_id": "dia69_utt13",
+    "emotion": "neutral",
+    "confidence": 0.7352299690246582,
+    "attn_audio_visual": 20.63323974609375
+  },
+  {
+    "utterance_id": "dia69_utt14",
+    "emotion": "neutral",
+    "confidence": 0.6946977972984314,
+    "attn_audio_visual": 20.786819458007812
+  },
+  {
+    "utterance_id": "dia69_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9997777342796326,
+    "attn_audio_visual": 20.50080680847168
+  },
+  {
+    "utterance_id": "dia69_utt16",
+    "emotion": "surprise",
+    "confidence": 0.9977411031723022,
+    "attn_audio_visual": 24.19348907470703
+  },
+  {
+    "utterance_id": "dia69_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9526423215866089,
+    "attn_audio_visual": 21.891664505004883
+  },
+  {
+    "utterance_id": "dia69_utt18",
+    "emotion": "surprise",
+    "confidence": 0.9978238344192505,
+    "attn_audio_visual": 21.089345932006836
+  },
+  {
+    "utterance_id": "dia69_utt19",
+    "emotion": "anger",
+    "confidence": 0.9994931221008301,
+    "attn_audio_visual": 20.555217742919922
+  },
+  {
+    "utterance_id": "dia69_utt2",
+    "emotion": "joy",
+    "confidence": 0.914221465587616,
+    "attn_audio_visual": 23.028139114379883
+  },
+  {
+    "utterance_id": "dia69_utt3",
+    "emotion": "surprise",
+    "confidence": 0.39541059732437134,
+    "attn_audio_visual": 24.659257888793945
+  },
+  {
+    "utterance_id": "dia69_utt4",
+    "emotion": "surprise",
+    "confidence": 0.999813973903656,
+    "attn_audio_visual": 23.369808197021484
+  },
+  {
+    "utterance_id": "dia69_utt5",
+    "emotion": "anger",
+    "confidence": 0.9344896674156189,
+    "attn_audio_visual": 21.897964477539062
+  },
+  {
+    "utterance_id": "dia69_utt6",
+    "emotion": "neutral",
+    "confidence": 0.7783005237579346,
+    "attn_audio_visual": 20.61997413635254
+  },
+  {
+    "utterance_id": "dia69_utt7",
+    "emotion": "neutral",
+    "confidence": 0.999869704246521,
+    "attn_audio_visual": 22.01221466064453
+  },
+  {
+    "utterance_id": "dia69_utt8",
+    "emotion": "surprise",
+    "confidence": 0.999083399772644,
+    "attn_audio_visual": 19.806169509887695
+  },
+  {
+    "utterance_id": "dia69_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9923025369644165,
+    "attn_audio_visual": 21.948467254638672
+  },
+  {
+    "utterance_id": "dia6_utt0",
+    "emotion": "joy",
+    "confidence": 0.9832072257995605,
+    "attn_audio_visual": 27.466373443603516
+  },
+  {
+    "utterance_id": "dia6_utt1",
+    "emotion": "neutral",
+    "confidence": 0.5156319737434387,
+    "attn_audio_visual": 22.65165901184082
+  },
+  {
+    "utterance_id": "dia6_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9994891881942749,
+    "attn_audio_visual": 22.675321578979492
+  },
+  {
+    "utterance_id": "dia6_utt3",
+    "emotion": "neutral",
+    "confidence": 0.999521017074585,
+    "attn_audio_visual": 23.218881607055664
+  },
+  {
+    "utterance_id": "dia6_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9964535236358643,
+    "attn_audio_visual": 23.160888671875
+  },
+  {
+    "utterance_id": "dia6_utt5",
+    "emotion": "anger",
+    "confidence": 0.9165734052658081,
+    "attn_audio_visual": 24.80052947998047
+  },
+  {
+    "utterance_id": "dia6_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9995111227035522,
+    "attn_audio_visual": 22.793289184570312
+  },
+  {
+    "utterance_id": "dia6_utt7",
+    "emotion": "neutral",
+    "confidence": 0.8461911678314209,
+    "attn_audio_visual": 24.90704345703125
+  },
+  {
+    "utterance_id": "dia6_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9748349785804749,
+    "attn_audio_visual": 24.937602996826172
+  },
+  {
+    "utterance_id": "dia6_utt9",
+    "emotion": "sadness",
+    "confidence": 0.9990870952606201,
+    "attn_audio_visual": 31.557832717895508
+  },
+  {
+    "utterance_id": "dia70_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9420223236083984,
+    "attn_audio_visual": 24.470115661621094
+  },
+  {
+    "utterance_id": "dia70_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9978249073028564,
+    "attn_audio_visual": 28.290193557739258
+  },
+  {
+    "utterance_id": "dia70_utt2",
+    "emotion": "sadness",
+    "confidence": 0.997572124004364,
+    "attn_audio_visual": 24.45221710205078
+  },
+  {
+    "utterance_id": "dia70_utt3",
+    "emotion": "joy",
+    "confidence": 0.7996047139167786,
+    "attn_audio_visual": 25.77442169189453
+  },
+  {
+    "utterance_id": "dia70_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9532452821731567,
+    "attn_audio_visual": 24.077571868896484
+  },
+  {
+    "utterance_id": "dia70_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9321679472923279,
+    "attn_audio_visual": 25.36882972717285
+  },
+  {
+    "utterance_id": "dia71_utt0",
+    "emotion": "sadness",
+    "confidence": 0.7948285937309265,
+    "attn_audio_visual": 28.618244171142578
+  },
+  {
+    "utterance_id": "dia71_utt1",
+    "emotion": "neutral",
+    "confidence": 0.967983067035675,
+    "attn_audio_visual": 26.329814910888672
+  },
+  {
+    "utterance_id": "dia71_utt2",
+    "emotion": "surprise",
+    "confidence": 0.6608468294143677,
+    "attn_audio_visual": 24.017091751098633
+  },
+  {
+    "utterance_id": "dia71_utt3",
+    "emotion": "joy",
+    "confidence": 0.7696912884712219,
+    "attn_audio_visual": 23.847023010253906
+  },
+  {
+    "utterance_id": "dia71_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9964266419410706,
+    "attn_audio_visual": 27.80512046813965
+  },
+  {
+    "utterance_id": "dia71_utt5",
+    "emotion": "neutral",
+    "confidence": 0.954590916633606,
+    "attn_audio_visual": 22.654651641845703
+  },
+  {
+    "utterance_id": "dia72_utt0",
+    "emotion": "surprise",
+    "confidence": 0.9474712014198303,
+    "attn_audio_visual": 26.043670654296875
+  },
+  {
+    "utterance_id": "dia72_utt1",
+    "emotion": "joy",
+    "confidence": 0.9948936700820923,
+    "attn_audio_visual": 26.794620513916016
+  },
+  {
+    "utterance_id": "dia72_utt10",
+    "emotion": "neutral",
+    "confidence": 0.37029486894607544,
+    "attn_audio_visual": 26.03990936279297
+  },
+  {
+    "utterance_id": "dia72_utt11",
+    "emotion": "sadness",
+    "confidence": 0.9920371770858765,
+    "attn_audio_visual": 26.952327728271484
+  },
+  {
+    "utterance_id": "dia72_utt12",
+    "emotion": "sadness",
+    "confidence": 0.998543381690979,
+    "attn_audio_visual": 29.462173461914062
+  },
+  {
+    "utterance_id": "dia72_utt13",
+    "emotion": "surprise",
+    "confidence": 0.6939595341682434,
+    "attn_audio_visual": 29.136005401611328
+  },
+  {
+    "utterance_id": "dia72_utt14",
+    "emotion": "joy",
+    "confidence": 0.6196196675300598,
+    "attn_audio_visual": 30.09138298034668
+  },
+  {
+    "utterance_id": "dia72_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9990842342376709,
+    "attn_audio_visual": 29.065073013305664
+  },
+  {
+    "utterance_id": "dia72_utt16",
+    "emotion": "sadness",
+    "confidence": 0.9995021820068359,
+    "attn_audio_visual": 23.206201553344727
+  },
+  {
+    "utterance_id": "dia72_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9854778051376343,
+    "attn_audio_visual": 23.825063705444336
+  },
+  {
+    "utterance_id": "dia72_utt18",
+    "emotion": "sadness",
+    "confidence": 0.9988806843757629,
+    "attn_audio_visual": 22.54601287841797
+  },
+  {
+    "utterance_id": "dia72_utt2",
+    "emotion": "neutral",
+    "confidence": 0.6543467044830322,
+    "attn_audio_visual": 21.88744354248047
+  },
+  {
+    "utterance_id": "dia72_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998278617858887,
+    "attn_audio_visual": 25.420499801635742
+  },
+  {
+    "utterance_id": "dia72_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9998584985733032,
+    "attn_audio_visual": 21.55350685119629
+  },
+  {
+    "utterance_id": "dia72_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9854594469070435,
+    "attn_audio_visual": 25.416189193725586
+  },
+  {
+    "utterance_id": "dia72_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9996274709701538,
+    "attn_audio_visual": 21.086044311523438
+  },
+  {
+    "utterance_id": "dia72_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9993706345558167,
+    "attn_audio_visual": 25.153715133666992
+  },
+  {
+    "utterance_id": "dia72_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9242238998413086,
+    "attn_audio_visual": 26.88355827331543
+  },
+  {
+    "utterance_id": "dia72_utt9",
+    "emotion": "sadness",
+    "confidence": 0.9996750354766846,
+    "attn_audio_visual": 23.177997589111328
+  },
+  {
+    "utterance_id": "dia73_utt0",
+    "emotion": "anger",
+    "confidence": 0.8723206520080566,
+    "attn_audio_visual": 24.111141204833984
+  },
+  {
+    "utterance_id": "dia73_utt1",
+    "emotion": "joy",
+    "confidence": 0.9986924529075623,
+    "attn_audio_visual": 28.572874069213867
+  },
+  {
+    "utterance_id": "dia73_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9851222038269043,
+    "attn_audio_visual": 27.446937561035156
+  },
+  {
+    "utterance_id": "dia74_utt0",
+    "emotion": "joy",
+    "confidence": 0.9991377592086792,
+    "attn_audio_visual": 27.68362045288086
+  },
+  {
+    "utterance_id": "dia74_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9996758699417114,
+    "attn_audio_visual": 25.495210647583008
+  },
+  {
+    "utterance_id": "dia74_utt10",
+    "emotion": "surprise",
+    "confidence": 0.999870777130127,
+    "attn_audio_visual": 20.805683135986328
+  },
+  {
+    "utterance_id": "dia74_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9996213912963867,
+    "attn_audio_visual": 24.40106964111328
+  },
+  {
+    "utterance_id": "dia74_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9997939467430115,
+    "attn_audio_visual": 24.488435745239258
+  },
+  {
+    "utterance_id": "dia74_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9985504746437073,
+    "attn_audio_visual": 24.596403121948242
+  },
+  {
+    "utterance_id": "dia74_utt14",
+    "emotion": "neutral",
+    "confidence": 0.9951531887054443,
+    "attn_audio_visual": 24.202880859375
+  },
+  {
+    "utterance_id": "dia74_utt15",
+    "emotion": "neutral",
+    "confidence": 0.8054769039154053,
+    "attn_audio_visual": 22.353961944580078
+  },
+  {
+    "utterance_id": "dia74_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9971143007278442,
+    "attn_audio_visual": 22.87959098815918
+  },
+  {
+    "utterance_id": "dia74_utt17",
+    "emotion": "fear",
+    "confidence": 0.5570636987686157,
+    "attn_audio_visual": 20.91205596923828
+  },
+  {
+    "utterance_id": "dia74_utt18",
+    "emotion": "neutral",
+    "confidence": 0.9012539982795715,
+    "attn_audio_visual": 23.14398956298828
+  },
+  {
+    "utterance_id": "dia74_utt19",
+    "emotion": "neutral",
+    "confidence": 0.8303897976875305,
+    "attn_audio_visual": 21.232383728027344
+  },
+  {
+    "utterance_id": "dia74_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9993960857391357,
+    "attn_audio_visual": 20.440900802612305
+  },
+  {
+    "utterance_id": "dia74_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9935196042060852,
+    "attn_audio_visual": 20.887475967407227
+  },
+  {
+    "utterance_id": "dia74_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9952462315559387,
+    "attn_audio_visual": 23.551481246948242
+  },
+  {
+    "utterance_id": "dia74_utt5",
+    "emotion": "joy",
+    "confidence": 0.9756777286529541,
+    "attn_audio_visual": 22.120269775390625
+  },
+  {
+    "utterance_id": "dia74_utt6",
+    "emotion": "neutral",
+    "confidence": 0.999846339225769,
+    "attn_audio_visual": 23.698890686035156
+  },
+  {
+    "utterance_id": "dia74_utt7",
+    "emotion": "anger",
+    "confidence": 0.5158742070198059,
+    "attn_audio_visual": 23.863231658935547
+  },
+  {
+    "utterance_id": "dia74_utt8",
+    "emotion": "surprise",
+    "confidence": 0.7258215546607971,
+    "attn_audio_visual": 24.44634246826172
+  },
+  {
+    "utterance_id": "dia74_utt9",
+    "emotion": "joy",
+    "confidence": 0.49799835681915283,
+    "attn_audio_visual": 25.289106369018555
+  },
+  {
+    "utterance_id": "dia75_utt0",
+    "emotion": "joy",
+    "confidence": 0.9915062785148621,
+    "attn_audio_visual": 23.741464614868164
+  },
+  {
+    "utterance_id": "dia76_utt0",
+    "emotion": "joy",
+    "confidence": 0.9845840930938721,
+    "attn_audio_visual": 21.883237838745117
+  },
+  {
+    "utterance_id": "dia76_utt1",
+    "emotion": "joy",
+    "confidence": 0.9995511174201965,
+    "attn_audio_visual": 26.916757583618164
+  },
+  {
+    "utterance_id": "dia76_utt10",
+    "emotion": "sadness",
+    "confidence": 0.8000969886779785,
+    "attn_audio_visual": 23.658981323242188
+  },
+  {
+    "utterance_id": "dia76_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9941588640213013,
+    "attn_audio_visual": 21.911087036132812
+  },
+  {
+    "utterance_id": "dia76_utt12",
+    "emotion": "neutral",
+    "confidence": 0.994666576385498,
+    "attn_audio_visual": 21.47754669189453
+  },
+  {
+    "utterance_id": "dia76_utt13",
+    "emotion": "disgust",
+    "confidence": 0.4122048616409302,
+    "attn_audio_visual": 22.08469581604004
+  },
+  {
+    "utterance_id": "dia76_utt14",
+    "emotion": "sadness",
+    "confidence": 0.9995865225791931,
+    "attn_audio_visual": 21.045040130615234
+  },
+  {
+    "utterance_id": "dia76_utt15",
+    "emotion": "neutral",
+    "confidence": 0.999193012714386,
+    "attn_audio_visual": 23.588520050048828
+  },
+  {
+    "utterance_id": "dia76_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9873583912849426,
+    "attn_audio_visual": 24.529451370239258
+  },
+  {
+    "utterance_id": "dia76_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998950958251953,
+    "attn_audio_visual": 28.340002059936523
+  },
+  {
+    "utterance_id": "dia76_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9996360540390015,
+    "attn_audio_visual": 28.689191818237305
+  },
+  {
+    "utterance_id": "dia76_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9998270869255066,
+    "attn_audio_visual": 23.781726837158203
+  },
+  {
+    "utterance_id": "dia76_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9999022483825684,
+    "attn_audio_visual": 25.154281616210938
+  },
+  {
+    "utterance_id": "dia76_utt6",
+    "emotion": "joy",
+    "confidence": 0.4331303536891937,
+    "attn_audio_visual": 24.255245208740234
+  },
+  {
+    "utterance_id": "dia76_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9998026490211487,
+    "attn_audio_visual": 22.359397888183594
+  },
+  {
+    "utterance_id": "dia76_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9984306693077087,
+    "attn_audio_visual": 25.29581642150879
+  },
+  {
+    "utterance_id": "dia76_utt9",
+    "emotion": "joy",
+    "confidence": 0.6334028840065002,
+    "attn_audio_visual": 23.699161529541016
+  },
+  {
+    "utterance_id": "dia77_utt0",
+    "emotion": "surprise",
+    "confidence": 0.9991613626480103,
+    "attn_audio_visual": 27.814224243164062
+  },
+  {
+    "utterance_id": "dia77_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9806704521179199,
+    "attn_audio_visual": 24.083515167236328
+  },
+  {
+    "utterance_id": "dia77_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9996641874313354,
+    "attn_audio_visual": 21.643409729003906
+  },
+  {
+    "utterance_id": "dia77_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9966334700584412,
+    "attn_audio_visual": 23.586803436279297
+  },
+  {
+    "utterance_id": "dia77_utt12",
+    "emotion": "joy",
+    "confidence": 0.9985318183898926,
+    "attn_audio_visual": 23.012615203857422
+  },
+  {
+    "utterance_id": "dia77_utt13",
+    "emotion": "anger",
+    "confidence": 0.999298095703125,
+    "attn_audio_visual": 22.58460807800293
+  },
+  {
+    "utterance_id": "dia77_utt14",
+    "emotion": "neutral",
+    "confidence": 0.7191588282585144,
+    "attn_audio_visual": 25.17681312561035
+  },
+  {
+    "utterance_id": "dia77_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9971858859062195,
+    "attn_audio_visual": 24.762651443481445
+  },
+  {
+    "utterance_id": "dia77_utt16",
+    "emotion": "neutral",
+    "confidence": 0.9986696243286133,
+    "attn_audio_visual": 26.14306640625
+  },
+  {
+    "utterance_id": "dia77_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9998431205749512,
+    "attn_audio_visual": 25.798551559448242
+  },
+  {
+    "utterance_id": "dia77_utt18",
+    "emotion": "neutral",
+    "confidence": 0.999852180480957,
+    "attn_audio_visual": 24.95819854736328
+  },
+  {
+    "utterance_id": "dia77_utt19",
+    "emotion": "neutral",
+    "confidence": 0.9998518228530884,
+    "attn_audio_visual": 27.322132110595703
+  },
+  {
+    "utterance_id": "dia77_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9989249110221863,
+    "attn_audio_visual": 23.692052841186523
+  },
+  {
+    "utterance_id": "dia77_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9388245940208435,
+    "attn_audio_visual": 23.235383987426758
+  },
+  {
+    "utterance_id": "dia77_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9862048029899597,
+    "attn_audio_visual": 24.663785934448242
+  },
+  {
+    "utterance_id": "dia77_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9949854612350464,
+    "attn_audio_visual": 25.350154876708984
+  },
+  {
+    "utterance_id": "dia77_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9994701743125916,
+    "attn_audio_visual": 24.32418441772461
+  },
+  {
+    "utterance_id": "dia77_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9988176226615906,
+    "attn_audio_visual": 23.937843322753906
+  },
+  {
+    "utterance_id": "dia77_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9997279047966003,
+    "attn_audio_visual": 24.87151336669922
+  },
+  {
+    "utterance_id": "dia77_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9977411031723022,
+    "attn_audio_visual": 23.063488006591797
+  },
+  {
+    "utterance_id": "dia78_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9994640946388245,
+    "attn_audio_visual": 25.595998764038086
+  },
+  {
+    "utterance_id": "dia78_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998874664306641,
+    "attn_audio_visual": 19.997303009033203
+  },
+  {
+    "utterance_id": "dia78_utt2",
+    "emotion": "sadness",
+    "confidence": 0.4961587190628052,
+    "attn_audio_visual": 20.889801025390625
+  },
+  {
+    "utterance_id": "dia78_utt3",
+    "emotion": "fear",
+    "confidence": 0.6764026880264282,
+    "attn_audio_visual": 21.65470314025879
+  },
+  {
+    "utterance_id": "dia78_utt4",
+    "emotion": "neutral",
+    "confidence": 0.999902606010437,
+    "attn_audio_visual": 21.04542350769043
+  },
+  {
+    "utterance_id": "dia78_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9689009785652161,
+    "attn_audio_visual": 28.85851287841797
+  },
+  {
+    "utterance_id": "dia78_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9960087537765503,
+    "attn_audio_visual": 19.031408309936523
+  },
+  {
+    "utterance_id": "dia78_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9939807653427124,
+    "attn_audio_visual": 25.12783432006836
+  },
+  {
+    "utterance_id": "dia78_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9961257576942444,
+    "attn_audio_visual": 18.002729415893555
+  },
+  {
+    "utterance_id": "dia79_utt0",
+    "emotion": "joy",
+    "confidence": 0.8541029691696167,
+    "attn_audio_visual": 23.356239318847656
+  },
+  {
+    "utterance_id": "dia79_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9994125366210938,
+    "attn_audio_visual": 24.63968276977539
+  },
+  {
+    "utterance_id": "dia79_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9923734068870544,
+    "attn_audio_visual": 21.713756561279297
+  },
+  {
+    "utterance_id": "dia79_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9991366267204285,
+    "attn_audio_visual": 28.852012634277344
+  },
+  {
+    "utterance_id": "dia79_utt3",
+    "emotion": "neutral",
+    "confidence": 0.5003180503845215,
+    "attn_audio_visual": 27.75558853149414
+  },
+  {
+    "utterance_id": "dia79_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9980754852294922,
+    "attn_audio_visual": 24.940107345581055
+  },
+  {
+    "utterance_id": "dia79_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9537030458450317,
+    "attn_audio_visual": 26.311189651489258
+  },
+  {
+    "utterance_id": "dia79_utt6",
+    "emotion": "neutral",
+    "confidence": 0.99988853931427,
+    "attn_audio_visual": 24.179973602294922
+  },
+  {
+    "utterance_id": "dia79_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9906450510025024,
+    "attn_audio_visual": 20.65432357788086
+  },
+  {
+    "utterance_id": "dia79_utt8",
+    "emotion": "joy",
+    "confidence": 0.6849825978279114,
+    "attn_audio_visual": 26.734800338745117
+  },
+  {
+    "utterance_id": "dia79_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9694958925247192,
+    "attn_audio_visual": 23.186626434326172
+  },
+  {
+    "utterance_id": "dia7_utt0",
+    "emotion": "joy",
+    "confidence": 0.9996626377105713,
+    "attn_audio_visual": 26.7586612701416
+  },
+  {
+    "utterance_id": "dia7_utt1",
+    "emotion": "joy",
+    "confidence": 0.998638927936554,
+    "attn_audio_visual": 21.708595275878906
+  },
+  {
+    "utterance_id": "dia7_utt10",
+    "emotion": "joy",
+    "confidence": 0.9996836185455322,
+    "attn_audio_visual": 24.025829315185547
+  },
+  {
+    "utterance_id": "dia7_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9999029636383057,
+    "attn_audio_visual": 23.408456802368164
+  },
+  {
+    "utterance_id": "dia7_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9646289348602295,
+    "attn_audio_visual": 23.085256576538086
+  },
+  {
+    "utterance_id": "dia7_utt4",
+    "emotion": "surprise",
+    "confidence": 0.9998087286949158,
+    "attn_audio_visual": 24.09758949279785
+  },
+  {
+    "utterance_id": "dia7_utt5",
+    "emotion": "joy",
+    "confidence": 0.9968292117118835,
+    "attn_audio_visual": 22.48024559020996
+  },
+  {
+    "utterance_id": "dia7_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9995529055595398,
+    "attn_audio_visual": 23.799470901489258
+  },
+  {
+    "utterance_id": "dia7_utt7",
+    "emotion": "joy",
+    "confidence": 0.9935331344604492,
+    "attn_audio_visual": 23.13930320739746
+  },
+  {
+    "utterance_id": "dia7_utt8",
+    "emotion": "sadness",
+    "confidence": 0.7195165753364563,
+    "attn_audio_visual": 23.55904197692871
+  },
+  {
+    "utterance_id": "dia7_utt9",
+    "emotion": "joy",
+    "confidence": 0.9997772574424744,
+    "attn_audio_visual": 28.33469581604004
+  },
+  {
+    "utterance_id": "dia80_utt0",
+    "emotion": "joy",
+    "confidence": 0.7816962003707886,
+    "attn_audio_visual": 27.315675735473633
+  },
+  {
+    "utterance_id": "dia80_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9996508359909058,
+    "attn_audio_visual": 25.66276741027832
+  },
+  {
+    "utterance_id": "dia80_utt2",
+    "emotion": "neutral",
+    "confidence": 0.991637647151947,
+    "attn_audio_visual": 23.431007385253906
+  },
+  {
+    "utterance_id": "dia80_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9994237422943115,
+    "attn_audio_visual": 25.314743041992188
+  },
+  {
+    "utterance_id": "dia80_utt4",
+    "emotion": "neutral",
+    "confidence": 0.7145771384239197,
+    "attn_audio_visual": 25.986268997192383
+  },
+  {
+    "utterance_id": "dia80_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9998863935470581,
+    "attn_audio_visual": 23.599641799926758
+  },
+  {
+    "utterance_id": "dia80_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9751765131950378,
+    "attn_audio_visual": 27.020824432373047
+  },
+  {
+    "utterance_id": "dia80_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9937388896942139,
+    "attn_audio_visual": 23.90895652770996
+  },
+  {
+    "utterance_id": "dia80_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9692201614379883,
+    "attn_audio_visual": 25.514144897460938
+  },
+  {
+    "utterance_id": "dia80_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9994723200798035,
+    "attn_audio_visual": 23.53458595275879
+  },
+  {
+    "utterance_id": "dia81_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9892407059669495,
+    "attn_audio_visual": 24.4262752532959
+  },
+  {
+    "utterance_id": "dia81_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9951683282852173,
+    "attn_audio_visual": 24.776838302612305
+  },
+  {
+    "utterance_id": "dia81_utt2",
+    "emotion": "joy",
+    "confidence": 0.9558729529380798,
+    "attn_audio_visual": 21.871070861816406
+  },
+  {
+    "utterance_id": "dia82_utt0",
+    "emotion": "joy",
+    "confidence": 0.997427761554718,
+    "attn_audio_visual": 28.673099517822266
+  },
+  {
+    "utterance_id": "dia82_utt1",
+    "emotion": "sadness",
+    "confidence": 0.9880487322807312,
+    "attn_audio_visual": 24.8169002532959
+  },
+  {
+    "utterance_id": "dia82_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9998551607131958,
+    "attn_audio_visual": 31.277402877807617
+  },
+  {
+    "utterance_id": "dia82_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9986289739608765,
+    "attn_audio_visual": 26.637075424194336
+  },
+  {
+    "utterance_id": "dia82_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9998038411140442,
+    "attn_audio_visual": 25.95177459716797
+  },
+  {
+    "utterance_id": "dia82_utt13",
+    "emotion": "joy",
+    "confidence": 0.9998244643211365,
+    "attn_audio_visual": 28.902433395385742
+  },
+  {
+    "utterance_id": "dia82_utt14",
+    "emotion": "surprise",
+    "confidence": 0.9988679885864258,
+    "attn_audio_visual": 30.957347869873047
+  },
+  {
+    "utterance_id": "dia82_utt15",
+    "emotion": "neutral",
+    "confidence": 0.8422207832336426,
+    "attn_audio_visual": 23.268217086791992
+  },
+  {
+    "utterance_id": "dia82_utt16",
+    "emotion": "anger",
+    "confidence": 0.9989074468612671,
+    "attn_audio_visual": 30.596277236938477
+  },
+  {
+    "utterance_id": "dia82_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9990746974945068,
+    "attn_audio_visual": 23.86040687561035
+  },
+  {
+    "utterance_id": "dia82_utt18",
+    "emotion": "joy",
+    "confidence": 0.6630741357803345,
+    "attn_audio_visual": 22.68830680847168
+  },
+  {
+    "utterance_id": "dia82_utt2",
+    "emotion": "joy",
+    "confidence": 0.7096336483955383,
+    "attn_audio_visual": 30.528278350830078
+  },
+  {
+    "utterance_id": "dia82_utt3",
+    "emotion": "disgust",
+    "confidence": 0.9437094926834106,
+    "attn_audio_visual": 30.773426055908203
+  },
+  {
+    "utterance_id": "dia82_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9979158043861389,
+    "attn_audio_visual": 32.64073181152344
+  },
+  {
+    "utterance_id": "dia82_utt5",
+    "emotion": "sadness",
+    "confidence": 0.998727023601532,
+    "attn_audio_visual": 29.114030838012695
+  },
+  {
+    "utterance_id": "dia82_utt6",
+    "emotion": "surprise",
+    "confidence": 0.8986135721206665,
+    "attn_audio_visual": 31.00123405456543
+  },
+  {
+    "utterance_id": "dia82_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9977103471755981,
+    "attn_audio_visual": 23.965688705444336
+  },
+  {
+    "utterance_id": "dia82_utt8",
+    "emotion": "joy",
+    "confidence": 0.9961812496185303,
+    "attn_audio_visual": 30.401721954345703
+  },
+  {
+    "utterance_id": "dia82_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9980881810188293,
+    "attn_audio_visual": 31.91641616821289
+  },
+  {
+    "utterance_id": "dia83_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9980149269104004,
+    "attn_audio_visual": 26.75382423400879
+  },
+  {
+    "utterance_id": "dia83_utt1",
+    "emotion": "neutral",
+    "confidence": 0.8844785094261169,
+    "attn_audio_visual": 23.58362579345703
+  },
+  {
+    "utterance_id": "dia83_utt2",
+    "emotion": "neutral",
+    "confidence": 0.8549647331237793,
+    "attn_audio_visual": 21.785425186157227
+  },
+  {
+    "utterance_id": "dia83_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9596560597419739,
+    "attn_audio_visual": 23.048368453979492
+  },
+  {
+    "utterance_id": "dia83_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9824624061584473,
+    "attn_audio_visual": 22.36728286743164
+  },
+  {
+    "utterance_id": "dia83_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9891570806503296,
+    "attn_audio_visual": 21.084583282470703
+  },
+  {
+    "utterance_id": "dia83_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9965544939041138,
+    "attn_audio_visual": 21.694107055664062
+  },
+  {
+    "utterance_id": "dia83_utt7",
+    "emotion": "joy",
+    "confidence": 0.834425687789917,
+    "attn_audio_visual": 20.873136520385742
+  },
+  {
+    "utterance_id": "dia84_utt0",
+    "emotion": "surprise",
+    "confidence": 0.9963873624801636,
+    "attn_audio_visual": 22.19732093811035
+  },
+  {
+    "utterance_id": "dia84_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9996277093887329,
+    "attn_audio_visual": 22.19732093811035
+  },
+  {
+    "utterance_id": "dia84_utt2",
+    "emotion": "surprise",
+    "confidence": 0.8682660460472107,
+    "attn_audio_visual": 23.00822639465332
+  },
+  {
+    "utterance_id": "dia84_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9998831748962402,
+    "attn_audio_visual": 22.395042419433594
+  },
+  {
+    "utterance_id": "dia84_utt4",
+    "emotion": "sadness",
+    "confidence": 0.999165415763855,
+    "attn_audio_visual": 24.95403289794922
+  },
+  {
+    "utterance_id": "dia84_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9750885963439941,
+    "attn_audio_visual": 24.856243133544922
+  },
+  {
+    "utterance_id": "dia84_utt6",
+    "emotion": "neutral",
+    "confidence": 0.5098022818565369,
+    "attn_audio_visual": 21.207033157348633
+  },
+  {
+    "utterance_id": "dia84_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9995949864387512,
+    "attn_audio_visual": 23.936946868896484
+  },
+  {
+    "utterance_id": "dia85_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9998012185096741,
+    "attn_audio_visual": 23.872241973876953
+  },
+  {
+    "utterance_id": "dia85_utt1",
+    "emotion": "neutral",
+    "confidence": 0.996727705001831,
+    "attn_audio_visual": 26.81739044189453
+  },
+  {
+    "utterance_id": "dia85_utt10",
+    "emotion": "sadness",
+    "confidence": 0.998433530330658,
+    "attn_audio_visual": 25.967823028564453
+  },
+  {
+    "utterance_id": "dia85_utt11",
+    "emotion": "surprise",
+    "confidence": 0.35341739654541016,
+    "attn_audio_visual": 21.878938674926758
+  },
+  {
+    "utterance_id": "dia85_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9868385195732117,
+    "attn_audio_visual": 21.264381408691406
+  },
+  {
+    "utterance_id": "dia85_utt13",
+    "emotion": "sadness",
+    "confidence": 0.9994120597839355,
+    "attn_audio_visual": 23.192346572875977
+  },
+  {
+    "utterance_id": "dia85_utt14",
+    "emotion": "sadness",
+    "confidence": 0.9914747476577759,
+    "attn_audio_visual": 25.382448196411133
+  },
+  {
+    "utterance_id": "dia85_utt15",
+    "emotion": "neutral",
+    "confidence": 0.7133229374885559,
+    "attn_audio_visual": 22.602951049804688
+  },
+  {
+    "utterance_id": "dia85_utt16",
+    "emotion": "joy",
+    "confidence": 0.977696418762207,
+    "attn_audio_visual": 24.763141632080078
+  },
+  {
+    "utterance_id": "dia85_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9957343935966492,
+    "attn_audio_visual": 24.308137893676758
+  },
+  {
+    "utterance_id": "dia85_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9993247985839844,
+    "attn_audio_visual": 23.952869415283203
+  },
+  {
+    "utterance_id": "dia85_utt4",
+    "emotion": "neutral",
+    "confidence": 0.588229238986969,
+    "attn_audio_visual": 29.94911003112793
+  },
+  {
+    "utterance_id": "dia85_utt5",
+    "emotion": "joy",
+    "confidence": 0.9941850304603577,
+    "attn_audio_visual": 27.72071075439453
+  },
+  {
+    "utterance_id": "dia85_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9997676014900208,
+    "attn_audio_visual": 23.28559684753418
+  },
+  {
+    "utterance_id": "dia85_utt7",
+    "emotion": "joy",
+    "confidence": 0.999728262424469,
+    "attn_audio_visual": 23.39790916442871
+  },
+  {
+    "utterance_id": "dia85_utt8",
+    "emotion": "sadness",
+    "confidence": 0.9852839708328247,
+    "attn_audio_visual": 22.432056427001953
+  },
+  {
+    "utterance_id": "dia85_utt9",
+    "emotion": "sadness",
+    "confidence": 0.8029906749725342,
+    "attn_audio_visual": 27.606433868408203
+  },
+  {
+    "utterance_id": "dia86_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9996947050094604,
+    "attn_audio_visual": 23.36872673034668
+  },
+  {
+    "utterance_id": "dia86_utt1",
+    "emotion": "sadness",
+    "confidence": 0.7281797528266907,
+    "attn_audio_visual": 24.94291114807129
+  },
+  {
+    "utterance_id": "dia86_utt2",
+    "emotion": "neutral",
+    "confidence": 0.7447487711906433,
+    "attn_audio_visual": 26.457420349121094
+  },
+  {
+    "utterance_id": "dia86_utt3",
+    "emotion": "anger",
+    "confidence": 0.9969736337661743,
+    "attn_audio_visual": 25.50206184387207
+  },
+  {
+    "utterance_id": "dia87_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9996333122253418,
+    "attn_audio_visual": 24.316600799560547
+  },
+  {
+    "utterance_id": "dia87_utt1",
+    "emotion": "neutral",
+    "confidence": 0.999840497970581,
+    "attn_audio_visual": 24.78624725341797
+  },
+  {
+    "utterance_id": "dia87_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9995037317276001,
+    "attn_audio_visual": 26.18182373046875
+  },
+  {
+    "utterance_id": "dia87_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9830925464630127,
+    "attn_audio_visual": 26.90711212158203
+  },
+  {
+    "utterance_id": "dia87_utt4",
+    "emotion": "joy",
+    "confidence": 0.8996909856796265,
+    "attn_audio_visual": 24.62429428100586
+  },
+  {
+    "utterance_id": "dia88_utt0",
+    "emotion": "surprise",
+    "confidence": 0.9982593655586243,
+    "attn_audio_visual": 25.410877227783203
+  },
+  {
+    "utterance_id": "dia88_utt1",
+    "emotion": "joy",
+    "confidence": 0.6833277344703674,
+    "attn_audio_visual": 23.86910629272461
+  },
+  {
+    "utterance_id": "dia88_utt2",
+    "emotion": "surprise",
+    "confidence": 0.7567185759544373,
+    "attn_audio_visual": 24.466758728027344
+  },
+  {
+    "utterance_id": "dia88_utt3",
+    "emotion": "sadness",
+    "confidence": 0.8714525103569031,
+    "attn_audio_visual": 22.66222381591797
+  },
+  {
+    "utterance_id": "dia88_utt4",
+    "emotion": "sadness",
+    "confidence": 0.7771314382553101,
+    "attn_audio_visual": 22.094072341918945
+  },
+  {
+    "utterance_id": "dia88_utt5",
+    "emotion": "sadness",
+    "confidence": 0.9032158255577087,
+    "attn_audio_visual": 24.19860076904297
+  },
+  {
+    "utterance_id": "dia89_utt0",
+    "emotion": "sadness",
+    "confidence": 0.9536106586456299,
+    "attn_audio_visual": 25.12343978881836
+  },
+  {
+    "utterance_id": "dia89_utt1",
+    "emotion": "anger",
+    "confidence": 0.870660662651062,
+    "attn_audio_visual": 29.290382385253906
+  },
+  {
+    "utterance_id": "dia89_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9744685292243958,
+    "attn_audio_visual": 24.93443489074707
+  },
+  {
+    "utterance_id": "dia89_utt2",
+    "emotion": "surprise",
+    "confidence": 0.9810283780097961,
+    "attn_audio_visual": 25.29506492614746
+  },
+  {
+    "utterance_id": "dia89_utt3",
+    "emotion": "surprise",
+    "confidence": 0.8202443718910217,
+    "attn_audio_visual": 24.796762466430664
+  },
+  {
+    "utterance_id": "dia89_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9998347759246826,
+    "attn_audio_visual": 24.147933959960938
+  },
+  {
+    "utterance_id": "dia89_utt5",
+    "emotion": "anger",
+    "confidence": 0.8747274279594421,
+    "attn_audio_visual": 27.427947998046875
+  },
+  {
+    "utterance_id": "dia89_utt6",
+    "emotion": "anger",
+    "confidence": 0.9987357258796692,
+    "attn_audio_visual": 26.69569969177246
+  },
+  {
+    "utterance_id": "dia89_utt7",
+    "emotion": "anger",
+    "confidence": 0.8888617753982544,
+    "attn_audio_visual": 27.084318161010742
+  },
+  {
+    "utterance_id": "dia89_utt8",
+    "emotion": "joy",
+    "confidence": 0.8524566292762756,
+    "attn_audio_visual": 27.346860885620117
+  },
+  {
+    "utterance_id": "dia89_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9990949630737305,
+    "attn_audio_visual": 25.6290340423584
+  },
+  {
+    "utterance_id": "dia8_utt0",
+    "emotion": "neutral",
+    "confidence": 0.8950945734977722,
+    "attn_audio_visual": 22.085947036743164
+  },
+  {
+    "utterance_id": "dia8_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9987624883651733,
+    "attn_audio_visual": 27.204395294189453
+  },
+  {
+    "utterance_id": "dia8_utt10",
+    "emotion": "joy",
+    "confidence": 0.6573294401168823,
+    "attn_audio_visual": 23.155033111572266
+  },
+  {
+    "utterance_id": "dia8_utt11",
+    "emotion": "joy",
+    "confidence": 0.9563925266265869,
+    "attn_audio_visual": 22.685495376586914
+  },
+  {
+    "utterance_id": "dia8_utt12",
+    "emotion": "joy",
+    "confidence": 0.4000719487667084,
+    "attn_audio_visual": 23.008058547973633
+  },
+  {
+    "utterance_id": "dia8_utt13",
+    "emotion": "joy",
+    "confidence": 0.9991580247879028,
+    "attn_audio_visual": 23.554086685180664
+  },
+  {
+    "utterance_id": "dia8_utt14",
+    "emotion": "joy",
+    "confidence": 0.5214665532112122,
+    "attn_audio_visual": 22.339540481567383
+  },
+  {
+    "utterance_id": "dia8_utt2",
+    "emotion": "sadness",
+    "confidence": 0.9973344802856445,
+    "attn_audio_visual": 27.093833923339844
+  },
+  {
+    "utterance_id": "dia8_utt3",
+    "emotion": "neutral",
+    "confidence": 0.7184891104698181,
+    "attn_audio_visual": 21.767610549926758
+  },
+  {
+    "utterance_id": "dia8_utt4",
+    "emotion": "neutral",
+    "confidence": 0.946526288986206,
+    "attn_audio_visual": 21.848546981811523
+  },
+  {
+    "utterance_id": "dia8_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9997404217720032,
+    "attn_audio_visual": 25.227214813232422
+  },
+  {
+    "utterance_id": "dia8_utt6",
+    "emotion": "neutral",
+    "confidence": 0.941024661064148,
+    "attn_audio_visual": 22.04916763305664
+  },
+  {
+    "utterance_id": "dia8_utt7",
+    "emotion": "sadness",
+    "confidence": 0.7015219926834106,
+    "attn_audio_visual": 25.180419921875
+  },
+  {
+    "utterance_id": "dia8_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9998476505279541,
+    "attn_audio_visual": 22.56312370300293
+  },
+  {
+    "utterance_id": "dia8_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9608964920043945,
+    "attn_audio_visual": 22.113420486450195
+  },
+  {
+    "utterance_id": "dia90_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9997844099998474,
+    "attn_audio_visual": 23.642480850219727
+  },
+  {
+    "utterance_id": "dia90_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9798117280006409,
+    "attn_audio_visual": 27.69635581970215
+  },
+  {
+    "utterance_id": "dia90_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9969602227210999,
+    "attn_audio_visual": 24.543676376342773
+  },
+  {
+    "utterance_id": "dia90_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9854389429092407,
+    "attn_audio_visual": 24.511140823364258
+  },
+  {
+    "utterance_id": "dia90_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9995531439781189,
+    "attn_audio_visual": 23.809526443481445
+  },
+  {
+    "utterance_id": "dia90_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9991858601570129,
+    "attn_audio_visual": 25.089380264282227
+  },
+  {
+    "utterance_id": "dia90_utt6",
+    "emotion": "anger",
+    "confidence": 0.9979571104049683,
+    "attn_audio_visual": 25.40425682067871
+  },
+  {
+    "utterance_id": "dia91_utt0",
+    "emotion": "disgust",
+    "confidence": 0.9292706847190857,
+    "attn_audio_visual": 24.42603302001953
+  },
+  {
+    "utterance_id": "dia91_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9998794794082642,
+    "attn_audio_visual": 27.871938705444336
+  },
+  {
+    "utterance_id": "dia91_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9968756437301636,
+    "attn_audio_visual": 25.51219367980957
+  },
+  {
+    "utterance_id": "dia91_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9996421337127686,
+    "attn_audio_visual": 30.261489868164062
+  },
+  {
+    "utterance_id": "dia91_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9998237490653992,
+    "attn_audio_visual": 29.975229263305664
+  },
+  {
+    "utterance_id": "dia91_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9972730278968811,
+    "attn_audio_visual": 27.91169548034668
+  },
+  {
+    "utterance_id": "dia91_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9416939616203308,
+    "attn_audio_visual": 20.586000442504883
+  },
+  {
+    "utterance_id": "dia91_utt6",
+    "emotion": "sadness",
+    "confidence": 0.9996272325515747,
+    "attn_audio_visual": 27.102540969848633
+  },
+  {
+    "utterance_id": "dia91_utt7",
+    "emotion": "surprise",
+    "confidence": 0.9560922384262085,
+    "attn_audio_visual": 28.212718963623047
+  },
+  {
+    "utterance_id": "dia91_utt8",
+    "emotion": "surprise",
+    "confidence": 0.9795697331428528,
+    "attn_audio_visual": 28.176231384277344
+  },
+  {
+    "utterance_id": "dia91_utt9",
+    "emotion": "sadness",
+    "confidence": 0.9950719475746155,
+    "attn_audio_visual": 28.34468650817871
+  },
+  {
+    "utterance_id": "dia92_utt0",
+    "emotion": "joy",
+    "confidence": 0.97226881980896,
+    "attn_audio_visual": 25.18690299987793
+  },
+  {
+    "utterance_id": "dia92_utt1",
+    "emotion": "surprise",
+    "confidence": 0.864902913570404,
+    "attn_audio_visual": 24.46862030029297
+  },
+  {
+    "utterance_id": "dia92_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9998359680175781,
+    "attn_audio_visual": 23.937686920166016
+  },
+  {
+    "utterance_id": "dia92_utt11",
+    "emotion": "joy",
+    "confidence": 0.99393230676651,
+    "attn_audio_visual": 23.384246826171875
+  },
+  {
+    "utterance_id": "dia92_utt2",
+    "emotion": "joy",
+    "confidence": 0.6311385035514832,
+    "attn_audio_visual": 22.311574935913086
+  },
+  {
+    "utterance_id": "dia92_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9392304420471191,
+    "attn_audio_visual": 25.511524200439453
+  },
+  {
+    "utterance_id": "dia92_utt4",
+    "emotion": "sadness",
+    "confidence": 0.9655141234397888,
+    "attn_audio_visual": 24.256187438964844
+  },
+  {
+    "utterance_id": "dia92_utt5",
+    "emotion": "surprise",
+    "confidence": 0.9995856881141663,
+    "attn_audio_visual": 25.903915405273438
+  },
+  {
+    "utterance_id": "dia92_utt6",
+    "emotion": "sadness",
+    "confidence": 0.5976521372795105,
+    "attn_audio_visual": 26.44050407409668
+  },
+  {
+    "utterance_id": "dia92_utt7",
+    "emotion": "sadness",
+    "confidence": 0.9991039633750916,
+    "attn_audio_visual": 23.2269287109375
+  },
+  {
+    "utterance_id": "dia92_utt8",
+    "emotion": "disgust",
+    "confidence": 0.8838469982147217,
+    "attn_audio_visual": 21.982393264770508
+  },
+  {
+    "utterance_id": "dia92_utt9",
+    "emotion": "surprise",
+    "confidence": 0.9996969699859619,
+    "attn_audio_visual": 22.56844711303711
+  },
+  {
+    "utterance_id": "dia93_utt0",
+    "emotion": "neutral",
+    "confidence": 0.999298095703125,
+    "attn_audio_visual": 22.334190368652344
+  },
+  {
+    "utterance_id": "dia93_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9840615391731262,
+    "attn_audio_visual": 26.290822982788086
+  },
+  {
+    "utterance_id": "dia93_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998607635498047,
+    "attn_audio_visual": 22.313323974609375
+  },
+  {
+    "utterance_id": "dia93_utt3",
+    "emotion": "disgust",
+    "confidence": 0.9189185500144958,
+    "attn_audio_visual": 22.715621948242188
+  },
+  {
+    "utterance_id": "dia93_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9994398951530457,
+    "attn_audio_visual": 24.719057083129883
+  },
+  {
+    "utterance_id": "dia93_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9997996687889099,
+    "attn_audio_visual": 24.454946517944336
+  },
+  {
+    "utterance_id": "dia93_utt6",
+    "emotion": "neutral",
+    "confidence": 0.863842248916626,
+    "attn_audio_visual": 21.52735710144043
+  },
+  {
+    "utterance_id": "dia93_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9934025406837463,
+    "attn_audio_visual": 24.705097198486328
+  },
+  {
+    "utterance_id": "dia94_utt0",
+    "emotion": "neutral",
+    "confidence": 0.8958670496940613,
+    "attn_audio_visual": 27.748624801635742
+  },
+  {
+    "utterance_id": "dia94_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9492071866989136,
+    "attn_audio_visual": 26.551889419555664
+  },
+  {
+    "utterance_id": "dia94_utt10",
+    "emotion": "sadness",
+    "confidence": 0.9723256230354309,
+    "attn_audio_visual": 26.85854721069336
+  },
+  {
+    "utterance_id": "dia94_utt11",
+    "emotion": "neutral",
+    "confidence": 0.9997444748878479,
+    "attn_audio_visual": 29.185237884521484
+  },
+  {
+    "utterance_id": "dia94_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9996492862701416,
+    "attn_audio_visual": 21.871675491333008
+  },
+  {
+    "utterance_id": "dia94_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9997974038124084,
+    "attn_audio_visual": 26.193653106689453
+  },
+  {
+    "utterance_id": "dia94_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9983175992965698,
+    "attn_audio_visual": 23.104595184326172
+  },
+  {
+    "utterance_id": "dia94_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9999175071716309,
+    "attn_audio_visual": 21.83656120300293
+  },
+  {
+    "utterance_id": "dia94_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9321320652961731,
+    "attn_audio_visual": 29.049850463867188
+  },
+  {
+    "utterance_id": "dia94_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9995332956314087,
+    "attn_audio_visual": 21.727527618408203
+  },
+  {
+    "utterance_id": "dia94_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9986856579780579,
+    "attn_audio_visual": 25.26585578918457
+  },
+  {
+    "utterance_id": "dia94_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9969072937965393,
+    "attn_audio_visual": 22.074481964111328
+  },
+  {
+    "utterance_id": "dia95_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9927103519439697,
+    "attn_audio_visual": 28.529516220092773
+  },
+  {
+    "utterance_id": "dia95_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9953041076660156,
+    "attn_audio_visual": 23.966012954711914
+  },
+  {
+    "utterance_id": "dia95_utt10",
+    "emotion": "neutral",
+    "confidence": 0.9916651844978333,
+    "attn_audio_visual": 24.09722137451172
+  },
+  {
+    "utterance_id": "dia95_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9998637437820435,
+    "attn_audio_visual": 23.163612365722656
+  },
+  {
+    "utterance_id": "dia95_utt3",
+    "emotion": "joy",
+    "confidence": 0.8835947513580322,
+    "attn_audio_visual": 22.289079666137695
+  },
+  {
+    "utterance_id": "dia95_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9999192953109741,
+    "attn_audio_visual": 28.353975296020508
+  },
+  {
+    "utterance_id": "dia95_utt5",
+    "emotion": "joy",
+    "confidence": 0.9981422424316406,
+    "attn_audio_visual": 26.143062591552734
+  },
+  {
+    "utterance_id": "dia95_utt6",
+    "emotion": "joy",
+    "confidence": 0.9940845370292664,
+    "attn_audio_visual": 24.294546127319336
+  },
+  {
+    "utterance_id": "dia95_utt7",
+    "emotion": "sadness",
+    "confidence": 0.7060356140136719,
+    "attn_audio_visual": 25.703392028808594
+  },
+  {
+    "utterance_id": "dia95_utt8",
+    "emotion": "sadness",
+    "confidence": 0.9997106194496155,
+    "attn_audio_visual": 25.35443878173828
+  },
+  {
+    "utterance_id": "dia95_utt9",
+    "emotion": "neutral",
+    "confidence": 0.9983696341514587,
+    "attn_audio_visual": 24.582223892211914
+  },
+  {
+    "utterance_id": "dia96_utt0",
+    "emotion": "neutral",
+    "confidence": 0.801550030708313,
+    "attn_audio_visual": 26.234342575073242
+  },
+  {
+    "utterance_id": "dia96_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9997499585151672,
+    "attn_audio_visual": 23.57633399963379
+  },
+  {
+    "utterance_id": "dia96_utt2",
+    "emotion": "joy",
+    "confidence": 0.4716378450393677,
+    "attn_audio_visual": 24.601181030273438
+  },
+  {
+    "utterance_id": "dia96_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9892492294311523,
+    "attn_audio_visual": 26.002338409423828
+  },
+  {
+    "utterance_id": "dia97_utt0",
+    "emotion": "surprise",
+    "confidence": 0.7218913435935974,
+    "attn_audio_visual": 26.433128356933594
+  },
+  {
+    "utterance_id": "dia97_utt1",
+    "emotion": "surprise",
+    "confidence": 0.9996159076690674,
+    "attn_audio_visual": 23.71426010131836
+  },
+  {
+    "utterance_id": "dia97_utt10",
+    "emotion": "neutral",
+    "confidence": 0.999853253364563,
+    "attn_audio_visual": 25.717485427856445
+  },
+  {
+    "utterance_id": "dia97_utt11",
+    "emotion": "sadness",
+    "confidence": 0.9963396787643433,
+    "attn_audio_visual": 29.65812873840332
+  },
+  {
+    "utterance_id": "dia97_utt12",
+    "emotion": "neutral",
+    "confidence": 0.9936229586601257,
+    "attn_audio_visual": 28.79762077331543
+  },
+  {
+    "utterance_id": "dia97_utt13",
+    "emotion": "neutral",
+    "confidence": 0.9960240125656128,
+    "attn_audio_visual": 30.088356018066406
+  },
+  {
+    "utterance_id": "dia97_utt14",
+    "emotion": "neutral",
+    "confidence": 0.9995896220207214,
+    "attn_audio_visual": 29.110612869262695
+  },
+  {
+    "utterance_id": "dia97_utt15",
+    "emotion": "neutral",
+    "confidence": 0.9998767375946045,
+    "attn_audio_visual": 29.906970977783203
+  },
+  {
+    "utterance_id": "dia97_utt16",
+    "emotion": "neutral",
+    "confidence": 0.6013256907463074,
+    "attn_audio_visual": 27.83000946044922
+  },
+  {
+    "utterance_id": "dia97_utt17",
+    "emotion": "neutral",
+    "confidence": 0.9993083477020264,
+    "attn_audio_visual": 27.032855987548828
+  },
+  {
+    "utterance_id": "dia97_utt18",
+    "emotion": "joy",
+    "confidence": 0.9815878868103027,
+    "attn_audio_visual": 24.804269790649414
+  },
+  {
+    "utterance_id": "dia97_utt19",
+    "emotion": "neutral",
+    "confidence": 0.9998558759689331,
+    "attn_audio_visual": 23.55756187438965
+  },
+  {
+    "utterance_id": "dia97_utt2",
+    "emotion": "neutral",
+    "confidence": 0.9964323043823242,
+    "attn_audio_visual": 24.85950469970703
+  },
+  {
+    "utterance_id": "dia97_utt20",
+    "emotion": "sadness",
+    "confidence": 0.7838224172592163,
+    "attn_audio_visual": 24.72174644470215
+  },
+  {
+    "utterance_id": "dia97_utt21",
+    "emotion": "joy",
+    "confidence": 0.7909424304962158,
+    "attn_audio_visual": 29.216289520263672
+  },
+  {
+    "utterance_id": "dia97_utt3",
+    "emotion": "surprise",
+    "confidence": 0.9097636938095093,
+    "attn_audio_visual": 27.222929000854492
+  },
+  {
+    "utterance_id": "dia97_utt4",
+    "emotion": "fear",
+    "confidence": 0.8351418375968933,
+    "attn_audio_visual": 30.99176025390625
+  },
+  {
+    "utterance_id": "dia97_utt5",
+    "emotion": "neutral",
+    "confidence": 0.9992507100105286,
+    "attn_audio_visual": 26.996021270751953
+  },
+  {
+    "utterance_id": "dia97_utt6",
+    "emotion": "neutral",
+    "confidence": 0.9862993359565735,
+    "attn_audio_visual": 25.730802536010742
+  },
+  {
+    "utterance_id": "dia97_utt7",
+    "emotion": "neutral",
+    "confidence": 0.999530553817749,
+    "attn_audio_visual": 27.970653533935547
+  },
+  {
+    "utterance_id": "dia97_utt8",
+    "emotion": "neutral",
+    "confidence": 0.9983104467391968,
+    "attn_audio_visual": 26.79478645324707
+  },
+  {
+    "utterance_id": "dia97_utt9",
+    "emotion": "neutral",
+    "confidence": 0.994036078453064,
+    "attn_audio_visual": 28.55576515197754
+  },
+  {
+    "utterance_id": "dia98_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9441404938697815,
+    "attn_audio_visual": 24.459117889404297
+  },
+  {
+    "utterance_id": "dia98_utt1",
+    "emotion": "joy",
+    "confidence": 0.9693362712860107,
+    "attn_audio_visual": 23.789188385009766
+  },
+  {
+    "utterance_id": "dia98_utt2",
+    "emotion": "sadness",
+    "confidence": 0.555849015712738,
+    "attn_audio_visual": 26.26667022705078
+  },
+  {
+    "utterance_id": "dia98_utt3",
+    "emotion": "neutral",
+    "confidence": 0.9997228980064392,
+    "attn_audio_visual": 22.819379806518555
+  },
+  {
+    "utterance_id": "dia98_utt4",
+    "emotion": "anger",
+    "confidence": 0.6815072894096375,
+    "attn_audio_visual": 22.951274871826172
+  },
+  {
+    "utterance_id": "dia99_utt0",
+    "emotion": "joy",
+    "confidence": 0.9585786461830139,
+    "attn_audio_visual": 25.559289932250977
+  },
+  {
+    "utterance_id": "dia99_utt1",
+    "emotion": "neutral",
+    "confidence": 0.9985911250114441,
+    "attn_audio_visual": 28.111663818359375
+  },
+  {
+    "utterance_id": "dia99_utt2",
+    "emotion": "neutral",
+    "confidence": 0.8548767566680908,
+    "attn_audio_visual": 28.233299255371094
+  },
+  {
+    "utterance_id": "dia99_utt3",
+    "emotion": "joy",
+    "confidence": 0.999749481678009,
+    "attn_audio_visual": 28.553115844726562
+  },
+  {
+    "utterance_id": "dia99_utt4",
+    "emotion": "neutral",
+    "confidence": 0.8888876438140869,
+    "attn_audio_visual": 27.75153160095215
+  },
+  {
+    "utterance_id": "dia99_utt5",
+    "emotion": "sadness",
+    "confidence": 0.4102934002876282,
+    "attn_audio_visual": 26.738462448120117
+  },
+  {
+    "utterance_id": "dia99_utt6",
+    "emotion": "surprise",
+    "confidence": 0.9970421195030212,
+    "attn_audio_visual": 23.68190574645996
+  },
+  {
+    "utterance_id": "dia99_utt7",
+    "emotion": "neutral",
+    "confidence": 0.99882572889328,
+    "attn_audio_visual": 22.849502563476562
+  },
+  {
+    "utterance_id": "dia99_utt8",
+    "emotion": "neutral",
+    "confidence": 0.7249494194984436,
+    "attn_audio_visual": 20.099607467651367
+  },
+  {
+    "utterance_id": "dia9_utt0",
+    "emotion": "neutral",
+    "confidence": 0.9515752792358398,
+    "attn_audio_visual": 27.75973892211914
+  },
+  {
+    "utterance_id": "dia9_utt1",
+    "emotion": "neutral",
+    "confidence": 0.997368574142456,
+    "attn_audio_visual": 30.106550216674805
+  },
+  {
+    "utterance_id": "dia9_utt2",
+    "emotion": "joy",
+    "confidence": 0.844402551651001,
+    "attn_audio_visual": 26.326189041137695
+  },
+  {
+    "utterance_id": "dia9_utt3",
+    "emotion": "sadness",
+    "confidence": 0.9986937642097473,
+    "attn_audio_visual": 25.189258575439453
+  },
+  {
+    "utterance_id": "dia9_utt4",
+    "emotion": "neutral",
+    "confidence": 0.9051288366317749,
+    "attn_audio_visual": 22.955503463745117
+  },
+  {
+    "utterance_id": "dia9_utt5",
+    "emotion": "sadness",
+    "confidence": 0.6984575390815735,
+    "attn_audio_visual": 31.804458618164062
+  },
+  {
+    "utterance_id": "dia9_utt6",
+    "emotion": "joy",
+    "confidence": 0.9760364890098572,
+    "attn_audio_visual": 20.87010955810547
+  },
+  {
+    "utterance_id": "dia9_utt7",
+    "emotion": "neutral",
+    "confidence": 0.9911592602729797,
+    "attn_audio_visual": 21.86827850341797
+  }
+]

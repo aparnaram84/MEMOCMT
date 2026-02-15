@@ -1,0 +1,20 @@
+data/MELD\train\videos\dia1007_utt12.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia125_utt3.mp4 | audio extract failed
+data/MELD\train\videos\dia179_utt8.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia18_utt7.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia250_utt6.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia429_utt9.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia452_utt2.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia50_utt3.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia523_utt10.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia621_utt1.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia687_utt3.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia712_utt11.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia71_utt0.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia73_utt6.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia888_utt8.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia910_utt11.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia923_utt11.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia936_utt18.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia946_utt12.mp4 | VAD produced empty audio
+data/MELD\train\videos\dia996_utt18.mp4 | VAD produced empty audio
