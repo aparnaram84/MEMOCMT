@@ -1,0 +1,75 @@
+# ===============================
+# AVT-Improved MemoCMT Configuration
+# ===============================
+
+project:
+  name: AVT-Improved-MemoCMT
+  dataset: MELD
+  task: Multimodal Emotion Recognition
+
+paths:
+  data_root: data/MELD
+  train_split: train
+  dev_split: dev
+  test_split: test
+  experiments_dir: experiments
+
+dataset:
+  emotions:
+    - neutral
+    - joy
+    - sadness
+    - anger
+    - fear
+    - disgust
+    - surprise
+  num_classes: 7
+  max_text_length: 128
+  max_audio_length: 10        # seconds
+  video_fps: 1                # frame sampling rate
+
+model:
+  embedding_dim: 256
+  audio_encoder: hubert-base
+  visual_encoder: resnet50
+  text_encoder: bert-base-uncased
+  projection_dropout: 0.1
+
+cross_modal_transformer:
+  num_heads: 8
+  num_layers: 2
+  attention_dropout: 0.1
+
+temporal_transformer:
+  num_layers: 4
+  num_heads: 8
+  dropout: 0.1
+
+training:
+  batch_size: 8
+  num_epochs: 20
+  learning_rate: 2e-5
+  weight_decay: 1e-4
+  optimizer: adamw
+  gradient_clipping: 1.0
+  seed: 42
+  device: cuda
+
+evaluation:
+  metrics:
+    - accuracy
+    - f1
+    - uar
+  save_confusion_matrix: true
+
+explainability:
+  enable: true
+  attention_maps: true
+  gradcam: true
+  integrated_gradients: true
+
+inference:
+  realtime: true
+  quantization: true
+  onnx_export: true
+  sliding_window: true
